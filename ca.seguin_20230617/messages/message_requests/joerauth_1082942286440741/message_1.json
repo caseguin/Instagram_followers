@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Joe Rauth"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joe Rauth",
+      "timestamp_ms": 1673135365007,
+      "content": "Hello \u00f0\u009f\u0091\u008b"
+    }
+  ],
+  "title": "Joe Rauth",
+  "is_still_participant": true,
+  "thread_path": "message_requests/joerauth_1082942286440741",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

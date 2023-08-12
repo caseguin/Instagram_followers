@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Andr\u00c3\u00a9anne Beaudry"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1683938917644,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/3100857039793297664"
+      }
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1573935371031,
+      "content": "Je te crois!!! \u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573916852769,
+      "content": "Encore mieux en vrai :p"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1573914194633,
+      "content": "Woow, je ne pensais pas que c'\u00c3\u00a9tait aussi beau! Profite-en bien!"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1573914163547,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573912275303,
+      "content": "Chili!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Andr\u00c3\u00a9anne Beaudry"
+        }
+      ]
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1573866548107,
+      "content": "C'est hallucinant comme paysage! \u00f0\u009f\u0098\u00ae O\u00c3\u00b9 exactement?",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2178029106451729187"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540856839326,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1540829092476,
+      "content": "S\u00c3\u00a9rieux? Ehh bien tant mieux dans ce cas! :D"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540822500086,
+      "content": "Peu importe! J'ai les skilzz de wolverine! C'est d\u00c3\u00a9j\u00c3\u00a0 r\u00c3\u00a9gl\u00c3\u00a9 :o"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1540778502840,
+      "content": "Tu sais c'est \u00c3\u00a0 cause de quoi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540776187551,
+      "content": "C'est un cas extr\u00c3\u00aamement rare"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1540751676972,
+      "content": "Je n'ai jamais entendu \u00c3\u00a7a haha! Tu m'apprends de quoi!!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540736821496,
+      "content": "Non non d'\u00c3\u00a9tude!"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1540656876036,
+      "content": "D'\u00c3\u00a9tude haha..Pas de stress? :P"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540645128756,
+      "content": "Fracture d'\u00c3\u00a9tude que \u00c3\u00a7a s'appel"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a9anne Beaudry",
+      "timestamp_ms": 1540607744871,
+      "content": "Wtf tu as fait quoi haha?",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1899041089768195275"
+      }
+    }
+  ],
+  "title": "Andr\u00c3\u00a9anne Beaudry",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreannebeaudry_577775633624078",
+  "magic_words": [
+    
+  ]
+}

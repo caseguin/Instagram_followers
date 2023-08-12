@@ -1,0 +1,46 @@
+{
+  "apps_and_websites_expired_apps": [
+    {
+      "title": "Bumble",
+      "string_map_data": {
+        "Expired on": {
+          "timestamp": 1649609163
+        },
+        "Last active on": {
+          "timestamp": 1641833163
+        },
+        "App user ID": {
+          "value": "4858572597497732"
+        }
+      }
+    },
+    {
+      "title": "Hinge",
+      "string_map_data": {
+        "Expired on": {
+          "timestamp": 1667909131
+        },
+        "Last active on": {
+          "timestamp": 1660133131
+        },
+        "App user ID": {
+          "value": "6836573506413752"
+        }
+      }
+    },
+    {
+      "title": "Tinder",
+      "string_map_data": {
+        "Expired on": {
+          "timestamp": 1677805626
+        },
+        "Last active on": {
+          "timestamp": 1670029626
+        },
+        "App user ID": {
+          "value": "4969222883088510"
+        }
+      }
+    }
+  ]
+}

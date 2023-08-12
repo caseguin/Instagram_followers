@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1654412497049,
+      "content": "hey"
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1654363503095,
+      "content": "hey! i saw you ig on tinder. How ya doin?"
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_906635444071427",
+  "magic_words": [
+    
+  ]
+}

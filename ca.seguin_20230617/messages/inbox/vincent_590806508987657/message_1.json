@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Vincent"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574240319429,
+      "content": "\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Vincent",
+      "timestamp_ms": 1574216948526,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2180963505409528333"
+      }
+    }
+  ],
+  "title": "Vincent",
+  "is_still_participant": true,
+  "thread_path": "inbox/vincent_590806508987657",
+  "magic_words": [
+    
+  ]
+}

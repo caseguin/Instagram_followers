@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "finstariane"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "finstariane",
+      "timestamp_ms": 1538418248662,
+      "content": "HAHAHAHAHHAHAHAHAHAHAHAHAHAHA"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1538091867509,
+      "content": "Arkkkkkk"
+    }
+  ],
+  "title": "finstariane",
+  "is_still_participant": true,
+  "thread_path": "inbox/finstariane_568675977860228",
+  "magic_words": [
+    
+  ]
+}

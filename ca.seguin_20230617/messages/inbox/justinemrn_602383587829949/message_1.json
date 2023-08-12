@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Justine Mrn"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Justine Mrn",
+      "timestamp_ms": 1573954691480,
+      "content": "Nice !!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573952435162,
+      "content": "Ouais! Um ptit tripw en famille"
+    },
+    {
+      "sender_name": "Justine Mrn",
+      "timestamp_ms": 1573952268502,
+      "content": "T\u00e2\u0080\u0099es en vacance la bas ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573952138993,
+      "content": "Ouii vraiment !"
+    },
+    {
+      "sender_name": "Justine Mrn",
+      "timestamp_ms": 1573951669596,
+      "content": "Wow! Chanceux !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573951611340,
+      "content": "Au Chili :)"
+    },
+    {
+      "sender_name": "Justine Mrn",
+      "timestamp_ms": 1573951594187,
+      "content": "C\u00e2\u0080\u0099est insane ! T\u00e2\u0080\u0099es o\u00c3\u00b9?\u00f0\u009f\u0098\u00b1"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1573951532932,
+      "content": "Avoues :o"
+    },
+    {
+      "sender_name": "Justine Mrn",
+      "timestamp_ms": 1573927216045,
+      "content": "Donc bien malade votre set up",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2178028026150243353"
+      }
+    }
+  ],
+  "title": "Justine Mrn",
+  "is_still_participant": true,
+  "thread_path": "inbox/justinemrn_602383587829949",
+  "magic_words": [
+    
+  ]
+}

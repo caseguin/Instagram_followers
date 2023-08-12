@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Caroline"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caroline",
+      "timestamp_ms": 1654830130217,
+      "content": "Le sunset de Haleakala summit \u00c3\u00a0 Maui."
+    },
+    {
+      "sender_name": "Caroline",
+      "timestamp_ms": 1654830129751,
+      "share": {
+        "link": "https://www.instagram.com/p/Cemm8HTMJQj/?carousel_share_child_media_id=2857142270387328035_143541043",
+        "share_text": "In the clouds \u00e2\u0098\u0081\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u008d\u00f0\u009f\u008c\u008b Can\u00e2\u0080\u0099t wait to come back.",
+        "original_content_owner": "koryne_m"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1640441902307,
+      "content": "Maintenant oui!"
+    },
+    {
+      "sender_name": "Caroline",
+      "timestamp_ms": 1640411085549,
+      "content": "Est c'que MP est r\u00c3\u00a9veill\u00c3\u00a9e ? Question de vie ou de mort"
+    },
+    {
+      "sender_name": "Caroline",
+      "timestamp_ms": 1640411049448,
+      "content": "Yo"
+    }
+  ],
+  "title": "Caroline",
+  "is_still_participant": true,
+  "thread_path": "inbox/caroline_799983021400950",
+  "magic_words": [
+    
+  ]
+}

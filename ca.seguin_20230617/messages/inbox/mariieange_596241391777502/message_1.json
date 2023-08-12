@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mariie Ange"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534979206005,
+      "content": "Nottt ahah"
+    },
+    {
+      "sender_name": "Mariie Ange",
+      "timestamp_ms": 1534976879220,
+      "content": "T\u00e2\u0080\u0099es plus mature que \u00c3\u00a7a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534976827117,
+      "content": "Not my style \u00e2\u009c\u008c"
+    },
+    {
+      "sender_name": "Mariie Ange",
+      "timestamp_ms": 1534976761243,
+      "content": "J\u00e2\u0080\u0099aurais aim\u00c3\u00a9 que tu fit avec ton ami"
+    },
+    {
+      "sender_name": "Mariie Ange",
+      "timestamp_ms": 1534976740422,
+      "content": "Come on"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534976681636,
+      "content": "Beige and black"
+    },
+    {
+      "sender_name": "Mariie Ange",
+      "timestamp_ms": 1534976658460,
+      "content": "J\u00e2\u0080\u0099esp\u00c3\u00a8re que le tien est aussi sua coche"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534976225643,
+      "content": "Suaaaa coche"
+    },
+    {
+      "sender_name": "Mariie Ange",
+      "timestamp_ms": 1534973683529,
+      "content": "Peux-tu lui dire que son outfit est SA COCHE \u00f0\u009f\u0091\u008c",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1851812459514853465"
+      }
+    }
+  ],
+  "title": "Mariie Ange",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariieange_596241391777502",
+  "magic_words": [
+    
+  ]
+}

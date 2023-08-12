@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Christopher Theron"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christopher Theron",
+      "timestamp_ms": 1618496351046,
+      "content": "Hello bro"
+    }
+  ],
+  "title": "Christopher Theron",
+  "is_still_participant": true,
+  "thread_path": "message_requests/christophertheron_2671175216508483",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

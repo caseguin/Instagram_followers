@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "CHARLES COLEMAN\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00ba"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHARLES COLEMAN\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00ba",
+      "timestamp_ms": 1644422180117,
+      "content": "Hello bro"
+    }
+  ],
+  "title": "CHARLES COLEMAN\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00a6\u00f0\u009f\u0087\u00ba",
+  "is_still_participant": true,
+  "thread_path": "message_requests/charlescoleman_823397202395252",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,823 @@
+{
+  "participants": [
+    {
+      "name": "Alexe Leduc"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537713226336,
+      "content": "Ouais ouais haha m\u00c3\u00aame excuse que d'habitude :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537712587917,
+      "content": "Ahahah\u00f0\u009f\u00a4\u00a6\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f\u00f0\u009f\u0098\u0085 je tiens a dire que jai encore de la mis\u00c3\u00a8re avec le d\u00c3\u00a9calage horaire, hier je me suis lev\u00c3\u00a9e a 5h du matin et avec la collation des grades c'\u00c3\u00a9tait vrament une grosse journ\u00c3\u00a9e\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537712491717,
+      "content": "Fac je savais que tu tol\u00c3\u00a9rais pas l'alcool ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537711089441,
+      "content": "Merci:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537711069925,
+      "content": "Okay! Ben bon souper avec ton cousin! On se rejase :)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537710191985,
+      "content": "Ouais"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537709938867,
+      "content": "Apr\u00c3\u00a8s, retour dans ton coin?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537708792850,
+      "content": "Je dois rester a sherb jusqua 4h parce que je vais souper avec mon cousin dans le coin donc je sais pas trop ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537708753179,
+      "content": "Toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537708750002,
+      "content": "Une grosse journ\u00c3\u00a9e productive! J'ai une semaine tr\u00c3\u00a8s charg\u00c3\u00a9e qui s'en vient! Lecture, gym, diner avec la grand-m\u00c3\u00a8re, travaux"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537708027156,
+      "content": "Tu fais quoi ajd?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537707925329,
+      "content": "I know haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537707912541,
+      "content": "Ouais:( je sais pas trop quand je vais revenir a sherb:/"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537707867318,
+      "content": "Une autre fois peut-\u00c3\u00aatre!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537707841712,
+      "content": "Ahah bonn dommage :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537707646513,
+      "content": "Ahah non, j'avais pr\u00c3\u00a9vu venir mais je suis venue porter mon amie a lappart, je me suis couch\u00c3\u00a9e 2min et je me suis endormie:o"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537707566489,
+      "content": "Tu t'es perdu? :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537677529138,
+      "content": "Parfait! \u00c3\u0080 tantot alors ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537677452031,
+      "content": "Ahah ya de grandes chances"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537677394551,
+      "content": "Reussis dont :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537677358106,
+      "content": "Moi aussi, je vais essayer"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537677064101,
+      "content": "Tout cas, j'aimerais que tu viennes ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537677026883,
+      "content": "Ahahah non je.vais marranger et voir mon \u00c3\u00a9tat en partant:p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676992942,
+      "content": "On es tu vraiment rendu \u00c3\u00a0 dealer une ride de taxi de 5min \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676851950,
+      "content": "Je suis pret \u00c3\u00a0 coter 5$ sur la ride :o"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676808230,
+      "content": "Continuer devrait couter pas trop chere!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537676772888,
+      "content": "Mon amie me paye le taxi pour retourner a son appart ou je dors ahah"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537676761921,
+      "content": "On a assez predrinker(avce de lalcool que mon amie a acheter)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537676744190,
+      "content": "Je me.prends pas de verre ici ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676729814,
+      "content": "Tu reviens comment chez tpo? :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676708640,
+      "content": "Ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676687397,
+      "content": "Mais t'as de l'argent pour le bar \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537676589111,
+      "content": "Jai pu dargent a cause de mon voyage ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537676406819,
+      "content": "Why? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537676296496,
+      "content": "Je peux pas prendre le taxi ahaha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537675976818,
+      "content": "C'est pas rockforest non plus haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537675954625,
+      "content": "6 min de taxi ou 2 de ton appart -_-"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537675711714,
+      "content": "Tu habite bin loin de tout ahah:o"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537675650386,
+      "content": "Je crois pas ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537674827642,
+      "content": "T'es si d\u00c3\u00a9sagr\u00c3\u00a9able soule \u00f0\u009f\u0099\u0084?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537674559377,
+      "content": "Moi je m'en fou :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537674522653,
+      "content": "Cest pour toi que je dis ca haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537674484364,
+      "content": "Au pire tu vas dire de la.marde haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537674449051,
+      "content": "Pi \u00c3\u00a7a? :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537674287204,
+      "content": "Mais je vais etre soule:o"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537673418471,
+      "content": "Ahah good"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670966882,
+      "content": "J'ai un lit confo et pas de coloc haha \u00e2\u009c\u008c"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537670822091,
+      "content": "Ahah parfait:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670751378,
+      "content": "1682 rue de courville appartement #6"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670726097,
+      "content": "C'est sure que si c'est \u00c3\u00a0 3h, oui haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537670702338,
+      "content": "Je t'\u00c3\u00a9crirai plus tard alors ahah, tu vas pt dormir"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670639352,
+      "content": "Ouais tu peux haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537670346931,
+      "content": "Je peux faire ca?;)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670307969,
+      "content": "Viens me rejoindre apr\u00c3\u00a8s le bar au pire? ;)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670282204,
+      "content": "Le netfix and wine me tente aussi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537670269749,
+      "content": "Emmm ouinnn :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537669739994,
+      "content": "Viens:)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537669735455,
+      "content": "Et on est 2 filles alors 3 cest bin chill ahah tu sera pas un chien se poche"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537669719065,
+      "content": "On y va lala"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537669448772,
+      "content": "C'est pas mieux si j'ai pas plus d'amis l\u00c3\u00a0-bas haha je suis pas un chien de poche"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537669399261,
+      "content": "Emmm vous y aller quand?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537668352926,
+      "content": "La je suis a lappart, et on a un lift pour la ptite gre"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537668337677,
+      "content": "Viens me rejoindre alors"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537668302566,
+      "content": "Fac \u00c3\u00a7a s'enligne softtt"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537668286305,
+      "content": "Moi je me suis fais chokee :)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537667874221,
+      "content": "Je men vais a la ptite gre:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537658044632,
+      "content": "Yess :)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537657952980,
+      "content": "Dacc tu me tiendra au courant alors:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537657932182,
+      "content": "Ohain ca s'enligne pas ben mes affaires! \u00c3\u0087a risque d'\u00c3\u00aatre plus de l'improvisation de derni\u00c3\u00a8re minute!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537655154815,
+      "content": "Mais bon si vous voulez vous joindre a nous on peut faire des drinking game a 5 avant de sortir ahah"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537654105200,
+      "content": "Ouais tout le monde de gestion sen vont la je crois"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537654051882,
+      "content": "Y'a dequoi au omg?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537654010602,
+      "content": "Nous on viens de ae commander a manger donc on va boire un peu ici et surement sortir plus tard soit a la ptite gre ou au omg"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537653898170,
+      "content": "Mais probablement que \u00c3\u00a7a risque d'\u00c3\u00aatre plus tard pour moi!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537653877613,
+      "content": "Ts\u00c3\u00a9 quand le probl\u00c3\u00a8me c'est trouver du monde \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537653515801,
+      "content": "Moi je suis avec 2 de mes amies et on a de lalcool en masse mais on sait juste pas ou et avec qui la boire ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537652872779,
+      "content": "Toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537652870334,
+      "content": "Pas facile haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537652866294,
+      "content": "Je me suis peut-\u00c3\u00aatre trouv\u00c3\u00a9 un ami!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537649307698,
+      "content": "Et puis finalement connait tu tes plans de la soir\u00c3\u00a9e?:)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537577763021,
+      "content": "Parfait:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537577712460,
+      "content": "Dacc on s'en reparle :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537577425597,
+      "content": "Ahah bin je me dis qua partir de 8 ca va \u00c3\u00aatre bien\u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085 mais je vais voir de mon bord aussu"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537577335418,
+      "content": "Au moins 5, tu les a les crit\u00c3\u00a8res haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537577277180,
+      "content": "Ahah ok:( ben si tu trouve au moins 5amis ca peut \u00c3\u00aatre chill pour un pr\u00c3\u00a9drink et apres on sort, il y a beaucoup de monde qui sorte:p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537577213893,
+      "content": "Okay ben je vais faire aller mes contact ce soir! Mais \u00c3\u00a7a s'enligne pas bien mes amis de brosse sont tous pas l\u00c3\u00a0 \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537577170371,
+      "content": "Me semblait aussi ahah"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537576806952,
+      "content": "Mon amie ma pr\u00c3\u00aat\u00c3\u00a9 son appart donc oui pour la soir\u00c3\u00a9e ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537576778279,
+      "content": "T'as un appart ici? :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537576700642,
+      "content": "Jai un appart donc on pourrait faire un pr\u00c3\u00a9drink la mais faut du monde ahah"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537576683663,
+      "content": "Je sais pas pour linstant on est 3 filles et on va sortir cest certain mais on essaye de se trouver quelque chose pour le predrink ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537576599613,
+      "content": "c'est quoi le tien?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537576582333,
+      "content": "Hey je sais pas! Le monde de mon ancien bac sortent pas, mes autres amis menacent de choker.. Je cherche encore un plan haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537576184189,
+      "content": "Cest quoi tes plans pour demain? Predrink tu avant de sortir au bar?:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537325396377,
+      "content": "Bonn willard :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537324109978,
+      "content": "**bonne nuit alors:)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537324087837,
+      "content": "Jm."
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537324085700,
+      "content": "Dacc ahaha, bonne nuu"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320988488,
+      "content": "Un verre de vin et dodo bientot... on a pas tous fini l'\u00c3\u00a9cole ici \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320954103,
+      "content": "Moi je sors de la douche haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320939640,
+      "content": "Oh classique ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537320578227,
+      "content": "Tu fais quoi toi?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537320572861,
+      "content": "On sen va au willard bientot"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320522972,
+      "content": "After?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320519224,
+      "content": "Tu fais quoi? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537320413575,
+      "content": "Je suis soule"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537320410639,
+      "content": "Non ahha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537320265782,
+      "content": "Puis ce soir, tu te tiens tranquille?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537318539851,
+      "content": "Tu verra bien"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537318190167,
+      "content": "Yepp ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537310678364,
+      "content": "Samedi\u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537310497036,
+      "content": "\u00c3\u0087a reste \u00c3\u00a0 voir haha"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537310236564,
+      "content": "Jai une tr\u00c3\u00a8s bonne tol\u00c3\u00a9rance habituellement!! Jr suis lev\u00c3\u00a9e depuis 4h du matin :/"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537310207119,
+      "content": "Ahah o"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537310100746,
+      "content": "Pas besoin d'excuse pour expliquer  ta faible tol\u00c3\u00a9rence ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537309993671,
+      "content": "Je suis trop jetlag"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537309939238,
+      "content": "C'est certain que y'a pas mal de chose l'fun une fois soul \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537309917855,
+      "content": "Ahahah"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537309793046,
+      "content": "J'imagine ahah je suis soule"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537309589129,
+      "content": "C'est l'fun?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537309423165,
+      "content": "Ahah ok"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537309352980,
+      "content": "Oublies \u00c3\u00a7a, j'ai pas le temps :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537308788093,
+      "content": "Viens faire un tour vite avant ton volley"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537291688092,
+      "content": "Non juste au 5a8"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537291575057,
+      "content": "Parfait! J'imagine que tu vas au bar ce soir aussi?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537290877175,
+      "content": "Si jamais tu change d'id\u00c3\u00a9e pour ce soir ecris moi:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537290570134,
+      "content": "Thats it ;)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537286660700,
+      "content": "Certain ahah:)!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537286256279,
+      "content": "Et tu sors? ;)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537286249938,
+      "content": "Bonn"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537286178730,
+      "content": "Oui cest ma collation des grades:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537286110647,
+      "content": "Moi \u00c3\u00a7a risque d'\u00c3\u00aatre samedi que \u00c3\u00a7a se passe! Vas-tu y \u00c3\u00aatre?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537286082081,
+      "content": "Je pense pas... j'ai une ligue dr volley \u00c3\u00a0 7h \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1537286050168,
+      "content": "Hey la grande voyageuse est de retour :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1537282954148,
+      "content": "5a8 ce soir?:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536323606006,
+      "content": "Parfait :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536323371599,
+      "content": "Le 5a8 dans la semaine du 17 septembre cest certain!:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536323320366,
+      "content": "En tout cas, fais signe quand tu descendras dans le coin :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536323274420,
+      "content": "Ohh d'accord!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536322918688,
+      "content": "Ca va dependre de ou ils ont besoin quand je vais revenir mais sur la Rive-Sud:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322794678,
+      "content": "Ohh cool ;) dans quelle ville? :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536322719667,
+      "content": "J'ai \u00c3\u00a9t\u00c3\u00a9 embauch\u00c3\u00a9e \u00c3\u00a0 la DPJ"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536322704482,
+      "content": "Mais cest correct je suis pr\u00c3\u00aate \u00c3\u00a0 me stabiliser ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322585967,
+      "content": "Tu vas travailler o\u00c3\u00b9?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322575852,
+      "content": "C'est claire! Un peu de stabilit\u00c3\u00a9!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536322423572,
+      "content": "Apr\u00c3\u00a8s 5 mois de voyage ca va etre bizarre!!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322307452,
+      "content": "Ishh"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322305362,
+      "content": "La vraie vie d'adulte qui commence"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536322275019,
+      "content": "Ouais:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536322215959,
+      "content": "Ohh triste! Officiellement la fin!"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536286909057,
+      "content": "Ahah ok!! Et je reviens la semaine du 17 pour le 5a8 et la collation des grades mais apr\u00c3\u00a8s ca cest fini pour moi Sherb:p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536286553312,
+      "content": "Oui oui! Ma\u00c3\u00aetrise, lets go! Reviens tu \u00c3\u00a0 sherby toi?"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536272901692,
+      "content": "Toi toujours a sherbrooke?:)"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536272893770,
+      "content": "Ouais un peu ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536242499244,
+      "content": "J'en doute pas! \u00c3\u0087a prend quand m\u00c3\u00aame des couilles partir seule aussi longtemps :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536239858661,
+      "content": "**mais cest pas toujours simple de voyager seule"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536239858033,
+      "content": "Jai hate de revoir mes amies et ma famille ahah, je serais rest\u00c3\u00a9e 1mois de plus maks"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536233849549,
+      "content": "H\u00c3\u00a2te d'\u00c3\u00aatre de retour ou t'aurais rest\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536233821869,
+      "content": "Oh wow okay! Je suis jaloux :p"
+    },
+    {
+      "sender_name": "Alexe Leduc",
+      "timestamp_ms": 1536233184815,
+      "content": "5mois ahah je reviens dans 11jours:p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536232781329,
+      "content": "Coudonc, t'es partis combien de temps en voyage? \u00f0\u009f\u0098\u0082"
+    }
+  ],
+  "title": "Alexe Leduc",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexeleduc_589009192500722",
+  "magic_words": [
+    
+  ]
+}

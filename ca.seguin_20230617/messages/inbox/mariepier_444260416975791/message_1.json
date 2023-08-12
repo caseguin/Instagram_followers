@@ -1,0 +1,105 @@
+{
+  "participants": [
+    {
+      "name": "Marie-Pier"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606083942760,
+      "content": "Oh d'accord \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1606082310106,
+      "content": "Je suis en pr\u00c3\u00a9sentiel moi au primaire. Et c'est juste ben des r\u00c3\u00a8gles \u00c3\u00a0 appliquer. Et en 6e ben les \u00c3\u00a9l\u00c3\u00a8ves sont \u00c3\u00a9coeur\u00c3\u00a9s alors ils les suivent plus ou moins"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606081697775,
+      "content": "Sinon, \u00c3\u00a7a va bien? L'\u00c3\u00a9cole \u00c3\u00a0 distance c'est pas trop pire? \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606081677029,
+      "content": "Okay haha"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1606064758651,
+      "content": "Nop!! Quoi que j'ai essay\u00c3\u00a9 une seule fois"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606063131505,
+      "content": "J'ai commenc\u00c3\u00a9 \u00c3\u00a0 exp\u00c3\u00a9rimenter le whisky \u00c3\u00a9galement, \u00c3\u00a7a tombe tu dans tes palettes aussi? \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606063062474,
+      "content": "Exact haha"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1606061863336,
+      "content": "Ouais! Je dois essayer de me contr\u00c3\u00b4ler. Je veux en acheter chaque semaine!!! Il y a trop de choix"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1606061254673,
+      "content": "Ahah salut! :) oui j'ai eu un gros trip l'hiver surtout durant la pand\u00c3\u00a9mie ... juste \u00c3\u00a7a \u00c3\u00a0 faire \u00f0\u009f\u0098\u0085 mais ca s'est calm\u00c3\u00a9 haha y'a encore tellement de produit \u00c3\u00a0 essayer par contre! Toi, toujours passionn\u00c3\u00a9e ? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1605920690041,
+      "content": "\u00c3\u0087a fait plein de fois que je me dis que je vais t'\u00c3\u00a9crire pour te demander si tu as d\u00c3\u00a9velopper tes connaissances de gin?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1577317887936,
+      "content": "Valleyfeild\u00f0\u009f\u0091\u008c"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1577303545211,
+      "content": "Ma nouvelle d'aujourd'hui"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1577303534728
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1577290424243,
+      "content": "Herbac\u00c3\u00a9 miamm, ok je vais clairement essayer!"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1577290162036,
+      "content": "Tu aimes plus herbas\u00c3\u00a9 ou fruit\u00c3\u00a9? Km12 est dans la categorie des forestiers. Moi c'est ceux-l\u00c3\u00a0 que j'aime le plus."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1577289383771,
+      "content": "Non jamais! En fait, je suis nouvellement fan de gin! Tu me le conseilles?"
+    },
+    {
+      "sender_name": "Marie-Pier",
+      "timestamp_ms": 1577289199920,
+      "content": "As tu essayer le Km12? Mon pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9. J'ai achet\u00c3\u00a9 4 nouvelles bouteilles hier",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2206287383182599961"
+      }
+    }
+  ],
+  "title": "Marie-Pier",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariepier_444260416975791",
+  "magic_words": [
+    
+  ]
+}

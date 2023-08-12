@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "M. Godin"
+    },
+    {
+      "name": "Brazzybraz"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M. Godin",
+      "timestamp_ms": 1487207495414,
+      "content": "Ahah je l'ai vu! Jdois dire qu'elle \u00c3\u00a9tait bonne!"
+    },
+    {
+      "sender_name": "Brazzybraz",
+      "timestamp_ms": 1487207337640,
+      "share": {
+        "link": "https://www.instagram.com/p/BQjZyCBgKMt/",
+        "share_text": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u0082",
+        "original_content_owner": "instahabs"
+      }
+    }
+  ],
+  "title": "M. Godin and Brazzybraz",
+  "is_still_participant": true,
+  "thread_path": "inbox/mgodinandbrazzybraz_3024161894324324",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

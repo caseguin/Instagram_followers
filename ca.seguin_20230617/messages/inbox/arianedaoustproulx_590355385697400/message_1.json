@@ -1,0 +1,814 @@
+{
+  "participants": [
+    {
+      "name": "Ariane Daoust-Proulx"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562546707114,
+      "content": "Rien toi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562462871181,
+      "content": "Tu fais quoi ce soir?"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562462281852,
+      "content": "Bin la hahaha \u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562461551919,
+      "content": "Tu me donne encore plus envie de te rencontrer \u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562461470151,
+      "content": "Merci\u00f0\u009f\u0098\u008f"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562461436798,
+      "content": "T'es belle"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562461433363,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/65605569_402562240608587_6201924215833187919_n_360310068420481.jpg",
+          "creation_timestamp": 1602297043
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562032014610,
+      "content": "Bonne nuit\u00f0\u009f\u0098\u0087"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562032003132,
+      "content": "Bonne nuit \u00f0\u009f\u0098\u008c"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031990084,
+      "content": "Je suis persuad\u00c3\u00a9 que ce sera r\u00c3\u00a9ciproque"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031960273,
+      "content": "Je pense qu\u00e2\u0080\u0099il y a tr\u00c3\u00a8s peu de chance que je sois d\u00c3\u00a9\u00c3\u00a7u"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031914817,
+      "content": "Tu verras \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031817991,
+      "content": "Dit moi pas ca\u00f0\u009f\u0098\u00bb"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031783894,
+      "content": "\u00c3\u0087a l'air que c'est mieux en vrai \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031756140,
+      "content": "J\u00e2\u0080\u0099en reviens pas"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031750565,
+      "content": "Mais tu es \u00f0\u009f\u00a4\u00a4\u00f0\u009f\u0098\u00bb"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031723029,
+      "content": "Oui t'as bien fais \u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031688118,
+      "content": "Contente de t\u00e2\u0080\u0099avoir parl\u00c3\u00a9, j\u00e2\u0080\u0099ai h\u00c3\u00a9sit\u00c3\u00a9 genre 5minute devant ta story avant de t\u00e2\u0080\u0099\u00c3\u00a9crire haha mais je me suis dit go pi j\u00e2\u0080\u0099ai send sans r\u00c3\u00a9fl\u00c3\u00a9chir j\u00e2\u0080\u0099ai bien fait \u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031636121,
+      "content": "Bonn, je me couche! On se rejase! Bonne nuit! \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031610296,
+      "content": "J'aimerais bien voir \u00c3\u00a7a cette petite boutique l\u00c3\u00a0!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031569248,
+      "content": "Oui hahaha je le fait avec plaisir la meilleure parti de la journee c\u00e2\u0080\u0099est quand je met les cl\u00c3\u00a9s dans la porte et que je met la musique au fond dans la boutique pour faire mes ballons du lendemain"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031556799,
+      "content": "C'est des beaux mollets \u00c3\u00a7a \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031518449,
+      "content": "De l'over dans un travail qui t'allume, c'est parfait \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031483359,
+      "content": "Je fait toujours de l\u00e2\u0080\u0099over time"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031463989
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031452547,
+      "content": "Ayoye okay impressionnant :p"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031419516,
+      "content": "Ya tellement de commende que je fini a 21h au lieu de 19h pour faire les commande du lendemain et la journ\u00c3\u00a9e d\u00e2\u0080\u0099apres j\u00e2\u0080\u0099ai tellement de job parce que le monde ca rentre a tour de bras dans la boutique"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031382321,
+      "content": "Quoi, concour de cuisse? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031367889
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031359111,
+      "content": "Toute les maman du monde"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031344462,
+      "content": "Mais on dirait que je comprends pas qui qui veux des ballons \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031320339,
+      "content": "Heinn"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031316609
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031186245,
+      "content": "Ca roule tellement"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031182952,
+      "content": "J\u00e2\u0080\u0099ai 0minute de pause"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031176859,
+      "content": "Le samedi c\u00e2\u0080\u0099est l\u00e2\u0080\u0099enfer"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031172571,
+      "content": "Vraiment vraiment plus que tu pense"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031161004,
+      "content": "Y'a bcp de gens qui ach\u00c3\u00a8tent des ballons?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031145226,
+      "content": "Ohh bon! C'est pareil! \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031082355,
+      "content": "Quoi que je compte ma caisse a la fin de la journ\u00c3\u00a9e \u00f0\u009f\u0098\u0089\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031080296,
+      "content": "Presque pareil \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031065387,
+      "content": "Moi je joue avec des ballons et toi des chiffre haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031048691,
+      "content": "Pour la section environnement, en gros je joue avec des chiffres :p"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562031047750,
+      "content": "Ohhh excitant"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562031014960,
+      "content": "Je travaille au minist\u00c3\u00a8re des finances"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562030292379,
+      "content": "C\u00e2\u0080\u0099est quoi ton travail?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562029747856,
+      "content": "La mienne au contraire, j'ai du temps \u00c3\u00a0 tuer \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562029730941,
+      "content": "C'est parfait les job que tu ne vois pas le temps passer!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562029711171,
+      "content": "Oui c'est impressionnant :)"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562029651903,
+      "content": "Oui\u00f0\u009f\u0098\u00bb c\u00e2\u0080\u0099est cool en"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562029175790,
+      "content": "C'est toi qui cr\u00c3\u00a9e tous \u00c3\u00a7a ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562029140180,
+      "content": "Ahah c'est ben cute \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562027052785,
+      "content": "En plus c\u00e2\u0080\u0099est une mini boutique on est 4 fille et 2 d\u00e2\u0080\u0099entre elles sont mes meilleures amie dans la vrai vie j\u00e2\u0080\u0099ai tellement de plaisir \u00c3\u00a0 travailler ca fait du bien"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026891667,
+      "content": "Je tripe vraiment desfois je suis tellement focuser sur mon travail que j\u00e2\u0080\u0099en oublie de manger"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026815059,
+      "content": "C\u00e2\u0080\u0099\u00c3\u00a9tait tellement cool"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026812631,
+      "content": "C\u00e2\u0080\u0099est aussi pour ca que sur ma derni\u00c3\u00a8re photo j\u00e2\u0080\u0099ai une drole de robe , c\u00e2\u0080\u0099est un d\u00c3\u00a9guisement que j\u00e2\u0080\u0099ai porter lorsque j\u00e2\u0080\u0099ai fait la parade de la st-jean avec mon travail"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026767448,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/65793473_697113537382142_2857550443865425551_n_659267634790146.jpg",
+          "creation_timestamp": 1603264981
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026766435,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/65143266_144429493284763_3717307444287554368_n_3515176015234393.jpg",
+          "creation_timestamp": 1603007244
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026765381,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/65667410_125302348705618_2301782248256811086_n_284213826005138.jpg",
+          "creation_timestamp": 1603262389
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026764190,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/64664901_2201985286723790_7415073232288065820_n_779101396268812.jpg",
+          "creation_timestamp": 1602973370
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026763393,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/64948766_143293113406368_4241870509632122914_n_761854774371063.jpg",
+          "creation_timestamp": 1603272505
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026762188,
+      "videos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/videos/65985051_3196418203709150_7119341483521474560_n_442933923357801.mp4",
+          "creation_timestamp": 1602581190
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026757407,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/65107201_644912255984370_8034278725005204123_n_399815071043674.jpg",
+          "creation_timestamp": 1602748922
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026756342,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/64807766_471015950329758_613750934369376114_n_340863283860065.jpg",
+          "creation_timestamp": 1602714367
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026755014,
+      "photos": [
+        {
+          "uri": "messages/inbox/arianedaoustproulx_590355385697400/photos/64741967_113952746348098_8476921953661884479_n_738890776973564.jpg",
+          "creation_timestamp": 1603745714
+        }
+      ]
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026663011,
+      "content": "Je travail dans une boutique de ballon"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026645799,
+      "content": "Omg tellement quand j\u00e2\u0080\u0099\u00c3\u00a9tais a Gatineau  j\u00e2\u0080\u0099aimais ma mere plus haha la elle me gosse vraiment hahaha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026612428,
+      "content": "Mais c'est quoi ta job? :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026601606,
+      "content": "Pas si grave, t'es toute petite :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026583820,
+      "content": "Une fois que tu est habitu\u00c3\u00a9 d'\u00c3\u00aatre dans tes affaires, retourner chez ses parents c'est dur haha"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026550728,
+      "content": "Oupsi"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026549391,
+      "content": "Et je mange beaucoup trop haha"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026381249,
+      "content": "Vraiment difficile"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026378503,
+      "content": "J\u00e2\u0080\u0099ai un nouveau travail qui me permet vraiment de me surpasser et d\u00e2\u0080\u0099\u00c3\u00aatre cr\u00c3\u00a9ative et de me faire f\u00c3\u00a9liciter pour mon initiative et mon imagination et j\u00e2\u0080\u0099adore ca , aussi mon horraire est vraiment parfaite donc je peux profiter de mes amie et du soleil pi \u00c3\u00a7a fait tellement de bien , mais c\u00e2\u0080\u0099est difficile d\u00e2\u0080\u0099\u00c3\u00aatre de retour chez mom"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026276773,
+      "content": "Travail, fun?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026268343,
+      "content": "Fac, \u00c3\u00a7a ressemble \u00c3\u00a0 quoi ton \u00c3\u00a9t\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026253461,
+      "content": "En effet :p"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562026195980,
+      "content": "Ca prend toute sorte de monde pour faire un monde faut croire"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562026098454,
+      "content": "Le pire... les gens qui mettent une photo de profile fb \u00c3\u00a0 deux... ts\u00c3\u00a9 quand tu te representes par rapport \u00c3\u00a0 quelqu'un d'autre..\u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562025866609,
+      "content": "Je comprend pas les gens qui d\u00c3\u00a9pendent de quelqu\u00e2\u0080\u0099un"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562025855439,
+      "content": "Oui vraiment hahaha moi j\u00e2\u0080\u0099ai de la misere a m\u00e2\u0080\u0099engager et \u00c3\u00a0 renoncer a ma libert\u00c3\u00a9 et tout haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025815120,
+      "content": "Trop de gens sont juste incapable d'\u00c3\u00aatre seul \u00f0\u009f\u0098\u009b"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025795282,
+      "content": "C'est une bonne chose!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025784255,
+      "content": "Voil\u00c3\u00a0!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562025590326,
+      "content": "Hahaha effectivement et je suis pas press\u00c3\u00a9 non plus je suis bien seule haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025565635,
+      "content": "Mon exp\u00c3\u00a9rience me dis que c'est quand qu'on laisse les choses aller qu'on trouve les meilleures surprises :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025521740,
+      "content": "Non pas vraiment haha"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562025356020,
+      "content": "Tes pas press\u00c3\u00a9 \u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562025244396,
+      "content": "Bonn ben on s'arrangera pour que \u00c3\u00a7a ait lieu! Si c'est pas cette \u00c3\u00a9t\u00c3\u00a9, cette automne au pire \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562020980547,
+      "content": "Mais effectivement ce serait chouette se rencontrer"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562020282457,
+      "content": "Je n'en doute pas!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562020262680,
+      "content": "Si jetai pas bien je l\u00e2\u0080\u0099aurais fait avant ca"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562019726255,
+      "content": "Bon pas de presse alors! Si tu es bien comme \u00c3\u00a7a :)"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562019265937,
+      "content": "Et je n\u00e2\u0080\u0099ai pas envie de conduire ni d\u00e2\u0080\u0099avoir une voiture"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562019250311,
+      "content": "Je sens pas que je depend des gens pour \u00c3\u00aatre bien honn\u00c3\u00aate"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562017472905,
+      "content": "J'imagine on s'habitue de toujours d\u00c3\u00a9pendre des autres pour aller \u00c3\u00a0 quelque part? \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562017422595,
+      "content": "Mais ouin! Un ptit coup \u00c3\u00a0 donner qui peut faciliter pas mal tes d\u00c3\u00a9placements :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562017391628,
+      "content": "J'ai prolong\u00c3\u00a9 mon stage! Principalement pour pouvoir brosser les fds avec mes amis \u00c3\u00a0 place d'\u00c3\u00aatre \u00c3\u00a0 l'\u00c3\u00a9cole \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016962761,
+      "content": "Mais jsuis pas down de tout reapprendre parce que j\u00e2\u0080\u0099ai toute oubli\u00c3\u00a9 haha ca fait 2ans j\u00e2\u0080\u0099ai pas\nConduit un auto haha"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016932819,
+      "content": "Y me reste juste mes exam a faire"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016926227,
+      "content": "Ouain nn hahha je vais faire mon permis cette ete la supposer"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016909454,
+      "content": "Pourquoi t\u00e2\u0080\u0099es la bas l\u00e2\u0080\u0099\u00c3\u00a9t\u00c3\u00a9 aussi? As tu des cours d\u00e2\u0080\u0099\u00c3\u00a9t\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562016751883,
+      "content": "\u00c3\u0087a arrive! Probablement plus \u00c3\u00a0 l'automne! Je vais avoir plus de temps libre! Faudrait bien qu'on se rencontre un de ces jours \u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562016698480,
+      "content": "Ah oui c'est vrai t'as pas de voiture non plus \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016457231,
+      "content": "Tu reviens pas dans l\u00e2\u0080\u0099coin toi?"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016447599,
+      "content": "Non malheureusement"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562016442685,
+      "content": "C\u00e2\u0080\u0099est ca qui faut\u00f0\u009f\u0098\u00bb"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562016184715,
+      "content": "Tu vas pas \u00c3\u00a0 Qu\u00c3\u00a9bec des fois? :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562016141448,
+      "content": "Dans vie je ne parle pas \u00c3\u00a0 1000 personnes que je trouve attirante en m\u00c3\u00aame temps! Et on s'est parl\u00c3\u00a9 quand m\u00c3\u00aame un ptit bout, donc oui j'ai retenue un bonne partie de ce qu'on se disait \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562015899998,
+      "content": "J\u00e2\u0080\u0099aime pas assez Gatineau pour ca"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562015891182,
+      "content": "A Valleyfield pour l\u00e2\u0080\u0099\u00c3\u00a9t\u00c3\u00a9 mon cher"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562015882158,
+      "content": "T\u00e2\u0080\u0099as donc bin une bonne m\u00c3\u00a9moire wow. Impressionn\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562015822936,
+      "content": "Toujours dans le coin de Gatineau? Ou \u00c3\u00a0 valley pour l'\u00c3\u00a9t\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1562015761853
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1561999805435,
+      "content": "Tu es tr\u00c3\u00a8s jolie toi aussi \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1561999793807,
+      "content": "Merci!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1561953537970,
+      "content": "T\u00e2\u0080\u0099es beaucoup trop beau.",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2078067927697234361"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540926636718,
+      "content": "Oui :)"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540914421577,
+      "content": "Tu vas pouvoir en profiter"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540914415185,
+      "content": "Ouiiiii vraiment !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540914402398,
+      "content": "Mais c'est beau Qu\u00c3\u00a9bec"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540914381006,
+      "content": "Ouainn \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540913624773,
+      "content": "Tristw"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540913622544,
+      "content": "Tes a l\u00e2\u0080\u0099oppos\u00c3\u00a9 de moi omg"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540913416951,
+      "content": "Va falloir trouver une autre occasion si on veut se voir parce que je m'en vais \u00c3\u00a0 Qu\u00c3\u00a9bec :/"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540860178076,
+      "content": "piiiiiiii"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540688788527,
+      "content": "tellement"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540688785241,
+      "content": "OMG OUI"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540688464257,
+      "content": "Mais les brosses apr\u00c3\u00a8s sont bonnes haha"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540667180011,
+      "content": "HAHAHHAA JTE FEEL"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540667175084,
+      "content": "Tellement difficile \u00f0\u009f\u0098\u00ab"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540656591432,
+      "content": "j'ai perdu mon \u00c3\u00a2me"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540656569904,
+      "content": "Ah oui? C'est difficile?"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540648493194,
+      "content": "Le cegep me tue mais ca va hahahaha toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540648311657,
+      "content": "Sinon \u00c3\u00a7a va ? :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540648278523,
+      "content": "Oueppp"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540648183011,
+      "content": "Ohhhh c\u00e2\u0080\u0099est bient\u00c3\u00b4t"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540648076041,
+      "content": "C'est lundi que \u00c3\u00a7a se d\u00c3\u00a9cide!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540648004578,
+      "content": "Jattend encore que tu demenage dans mon coin\u00f0\u009f\u0098\u0089"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540645094376,
+      "content": "Ouainnn :/"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1540606525314,
+      "content": "Ohoh",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1899041089768195275"
+      }
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1536974972122,
+      "content": "Je laime"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1536974307524,
+      "content": "Vrm hahaha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536974076144,
+      "content": "Y'a l'aire d'un criss"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1536620989917,
+      "content": "Oh my god oui"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536620502008,
+      "content": "C'est bon ce truc!"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1536619381150,
+      "content": "1 litre de kombucha haha \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1536618217247,
+      "content": "Healthy girl ;)"
+    },
+    {
+      "sender_name": "Ariane Daoust-Proulx",
+      "timestamp_ms": 1536613536797
+    }
+  ],
+  "title": "Ariane Daoust-Proulx",
+  "is_still_participant": true,
+  "thread_path": "inbox/arianedaoustproulx_590355385697400",
+  "magic_words": [
+    
+  ]
+}

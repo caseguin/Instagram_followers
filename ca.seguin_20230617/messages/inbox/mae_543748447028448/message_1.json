@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Mae"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566533711060,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566532618301,
+      "content": "Deal!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Mae"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566532506239,
+      "content": "Je voulais pas te d\u00c3\u00a9ranger mais si je te recroise dans ce genre de circonstances je viendrai te dire salut assur\u00c3\u00a9ment !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566531981743,
+      "content": "T'aurais d\u00c3\u00bb dire salut! :p"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566531446673,
+      "content": "J\u00e2\u0080\u0099y \u00c3\u00a9tais avec un ami on \u00c3\u00a9tait venu prendre un caf\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566531320219,
+      "content": "Tu y es? :o"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566531126679,
+      "content": "Ok j\u00e2\u0080\u0099avoue, j\u00e2\u0080\u0099ai des lunettes. \u00c3\u0087a comptes tu comme de la triche ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566530904368,
+      "content": "\u00f0\u009f\u00a7\u0090"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566530784053,
+      "content": "J\u00e2\u0080\u0099ai encore des yeux fonctionnels faut croire !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566530716510,
+      "content": "Oui :p"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566530689704,
+      "content": "Je me m\u00c3\u00aale tout le temps, j\u00e2\u0080\u0099aurais pari\u00c3\u00a9 t\u00e2\u0080\u0099y avoir vu"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566530673247,
+      "content": "Scuse haha le temps perdu"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566530404908,
+      "content": "Pourquoi haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566529522068,
+      "content": "Non"
+    },
+    {
+      "sender_name": "Mae",
+      "timestamp_ms": 1566529179069,
+      "content": "La question va te sembler bizarre mais \u00c3\u00a9tais tu au cactus ce soir ?"
+    }
+  ],
+  "title": "Mae",
+  "is_still_participant": true,
+  "thread_path": "inbox/mae_543748447028448",
+  "magic_words": [
+    
+  ]
+}

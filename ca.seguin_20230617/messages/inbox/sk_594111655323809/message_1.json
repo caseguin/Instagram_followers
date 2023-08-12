@@ -1,0 +1,284 @@
+{
+  "participants": [
+    {
+      "name": "SK"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1659829668716,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659825686029,
+      "content": "Go",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SK"
+        }
+      ]
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1659825545126,
+      "content": "coming",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2899148606837892494"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656967636786,
+      "content": "Niceee !"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656960904961,
+      "content": "Yessss!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656960853168,
+      "content": "Pr\u00c3\u00a9paration pour le feq?"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656118830867,
+      "content": "Hahaha oui c\u00e2\u0080\u0099\u00c3\u00a9tais beau",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Charles-Antoine S\u00c3\u00a9guin"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656116504770,
+      "content": "Je viens de voir ta story haha \u00c3\u00a7a r\u00c3\u00a9pond \u00c3\u00a0 ma question!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656116468518,
+      "content": "Je connais pas! Y'avait de bons points de vue?"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656108621193,
+      "content": "Awww nice enjoy\u00f0\u009f\u00a5\u00b0"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656108611653,
+      "content": "J\u00e2\u0080\u0099ai fait la boucle Pioui Mont du Lac Des Cygnes!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656108142294,
+      "content": "Non, en fait je suis en cong\u00c3\u00a9 depuis mercredi! J'en ai profit\u00c3\u00a9 pour monter \u00c3\u00a0 mtl voir la famille et faire la f\u00c3\u00aate jusqu'\u00c3\u00a0 en fin de semaine! Mais je suis en mode improvisation :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656108058772,
+      "content": "C'est ben correct! C'est important de s'\u00c3\u00a9couter! T'es all\u00c3\u00a9 monter quelle montage?"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656107156371,
+      "content": "Non pentoute! j\u00e2\u0080\u0099avais vraiment besoin de relaxer. Mes semaines vont trop vites, j\u00e2\u0080\u0099suis \u00c3\u00a0 peine chez moi. J\u00e2\u0080\u0099suis aller hiker, j\u00e2\u0080\u0099viens juste de revenir. Toi?"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656107122577,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656106994092,
+      "content": "Toi, finalement tu f\u00c3\u00aates un peu?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656106981904,
+      "content": "Fac je suis rest\u00c3\u00a9 \u00c3\u00a0 Montr\u00c3\u00a9al"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656106971299,
+      "content": "Nooo m\u00c3\u00aame pas, j'\u00c3\u00a9tais pas tant down de faire le third wheel :p",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SK"
+        }
+      ]
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656106656278,
+      "content": "Ah t\u00e2\u0080\u0099es aller finalement? Haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656106548890,
+      "content": "Tu sais pas tout ce que tu manques \u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656106519385,
+      "content": "\u00c3\u0089coute, \u00c3\u00a7a niaise pas \u00c3\u00a0 l'\u00c3\u00aele aux sucres!"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1656105764096,
+      "content": "T\u00e2\u0080\u0099\u00c3\u00a9tais \u00c3\u00a9quip\u00c3\u00a9 fort pour aller sur l\u00e2\u0080\u0099\u00c3\u00aele",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2867814057651373042"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655736059207,
+      "content": "On \u00c3\u00a9tait en v\u00c3\u00a9lo \u00f0\u009f\u0099\u0083 mais vous aviez l'air d'avoir un pas pire set up en tout cas!"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655661740799,
+      "content": "J\u00e2\u0080\u0099avais besoin de dodo haha"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655661737306,
+      "content": "J\u00e2\u0080\u0099suis l\u00c3\u00a0! Venez"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655661427623,
+      "content": "On y \u00c3\u00a9tait! Mais pas toi \u00f0\u009f\u0098\u00b3"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655580698764,
+      "content": "Vous venez au bbq fest?"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655580692801,
+      "content": "\u00f0\u009f\u0098\u00ae\u00e2\u0080\u008d\u00f0\u009f\u0092\u00a8j\u00e2\u0080\u0099sais paaaas"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655575747485,
+      "content": "Pr\u00c3\u00aate \u00c3\u00a0 recommencer ce soir?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655575733054,
+      "content": "Les maudits shots!"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655574275185,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message "
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655573146240,
+      "content": "Je ne m'en souviens plus \u00f0\u009f\u0098\u0085",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "SK"
+        }
+      ]
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655573040225,
+      "content": "Sur le dancefloor jusqu\u00e2\u0080\u0099\u00c3\u00a0 la derni\u00c3\u00a8re seconde! Toi? \u00c3\u0089tendu sur le trottoir dehors?\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1655572982505,
+      "content": "Tu \u00c3\u00a9tais o\u00c3\u00b9? Je te cherchais \u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655572928924,
+      "content": "Il est en vie!\u00f0\u009f\u0091\u008f\u00f0\u009f\u008f\u00bd"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1655572922557,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message "
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571248866023,
+      "content": "Haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1571248782270,
+      "content": "Ouin tu n'\u00c3\u00a9tais pas g\u00c3\u00aan\u00c3\u00a9e \u00c3\u00a0 ce moment l\u00c3\u00a0 haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "SK"
+        }
+      ]
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571248415414,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571248409965,
+      "content": "Oui le temps passent tellement vite! J\u00e2\u0080\u0099en reviens pas d\u00e2\u0080\u0099avoir fait \u00c3\u00a7a haha\u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1571247500954,
+      "content": "\u00c3\u0087a fait plus de 10 ans de \u00c3\u00a7a haha c'est fou",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SK"
+        }
+      ]
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571247476612,
+      "content": "Haha omg"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1571247182105,
+      "content": "Hahahah oui \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571246562250
+    },
+    {
+      "sender_name": "SK",
+      "timestamp_ms": 1571246550786,
+      "content": "Hey! Je suis entrain de faire le m\u00c3\u00a9nage de ma bo\u00c3\u00aete \u00c2\u00ab\u00c2\u00a0souvenirs\u00c2\u00a0\u00c2\u00bb et j\u00e2\u0080\u0099ai retrouv\u00c3\u00a9 \u00c3\u00a7a\u00f0\u009f\u0098\u0085 c\u00e2\u0080\u0099\u00c3\u00a9tais tu ton adresse courriel que je t\u00e2\u0080\u0099avais demand\u00c3\u00a9 quand j\u00e2\u0080\u0099\u00c3\u00a9tais en secondaire 1\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082?"
+    }
+  ],
+  "title": "SK",
+  "is_still_participant": true,
+  "thread_path": "inbox/sk_594111655323809",
+  "magic_words": [
+    
+  ]
+}

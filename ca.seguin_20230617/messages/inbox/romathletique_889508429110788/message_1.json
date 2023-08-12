@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659900612445,
+      "content": "Noo"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659898534058,
+      "content": "Es tu suivi en physio"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659898353977,
+      "content": "Yess"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659897701562,
+      "content": "Une chute!?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659896305401,
+      "content": "Velo de montagne haha"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659896175602,
+      "content": "Que passo!?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659896157069,
+      "content": "J'aimerais bien mais je ne suis pas s\u00c3\u00bbr, blessure au genou \u00f0\u009f\u0098\u0095"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659896043770,
+      "content": "Joua tu au king \u00f0\u009f\u0091\u0091 cet \u00c3\u00a9t\u00c3\u00a9 !?"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659896012832,
+      "content": "\u00f0\u009f\u00a4\u0094"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659895572510,
+      "content": "Wtf la mouette"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659895558341,
+      "content": "Les grand gars de la.place, avec ian tardif",
+      "share": {
+        "link": "https://www.facebook.com/la.place"
+      }
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659895502292,
+      "content": "Dure \u00c3\u00a0 pas voir lol"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659894527267,
+      "content": "Yess"
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1659828437147,
+      "content": "As tu vu JP Desjardins",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2899148606837892494"
+      }
+    },
+    {
+      "sender_name": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+      "timestamp_ms": 1652490756593,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2837595445523268260"
+      }
+    }
+  ],
+  "title": "ROMathletique \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00a6",
+  "is_still_participant": true,
+  "thread_path": "inbox/romathletique_889508429110788",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Anne-Julie D'Auteuil"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574730742842,
+      "content": "Vraiment \u00f0\u009f\u0098\u0081"
+    },
+    {
+      "sender_name": "Anne-Julie D'Auteuil",
+      "timestamp_ms": 1574719823018,
+      "content": "Ton voyage a l\u00e2\u0080\u0099air malade pour vrai \u00f0\u009f\u00a4\u00a9",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2185191186179070739"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1562078283698,
+      "content": "\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Anne-Julie D'Auteuil",
+      "timestamp_ms": 1562066371624,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2078733161206258333"
+      }
+    }
+  ],
+  "title": "Anne-Julie D'Auteuil",
+  "is_still_participant": true,
+  "thread_path": "inbox/annejuliedauteuil_582520456482929",
+  "magic_words": [
+    
+  ]
+}

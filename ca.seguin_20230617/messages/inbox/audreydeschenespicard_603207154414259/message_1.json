@@ -1,0 +1,1340 @@
+{
+  "participants": [
+    {
+      "name": "Audrey Desch\u00c3\u00aanes-Picard"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1646619621345,
+      "content": ":)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1646617977496,
+      "content": "C\u00e2\u0080\u0099est gentil merci :) je te souhaite la m\u00c3\u00aame chose!!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1646616482469,
+      "content": "Oh d'accord, c'est moi qui est un peu en retard \u00f0\u009f\u0099\u0084 Dans tous les cas, je suis content que tu ais trouv\u00c3\u00a9 quelqu'un qui te rend heureuse \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1646615375521,
+      "content": "Ahah cette fameuse pizza!\u00f0\u009f\u008d\u0095ce n\u00e2\u0080\u0099est malheureusement plus un bon timing.. je suis avec quelqu\u00e2\u0080\u0099un maintenant."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1646512488962,
+      "content": "Bon, quand est-ce qu'on se fait une pizz hawa\u00c3\u00afenne? \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600217007733,
+      "content": "Je comprends pas pourquoi, c'est si bon :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600136835475,
+      "content": "Jpense que les gens sont juste g\u00c3\u00aan\u00c3\u00a9 de l'admettre qu'ils aiment \u00c3\u00a7a\u00f0\u009f\u008d\u008d"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600123181316,
+      "content": "Oh yess team pizz hawa\u00c3\u00afenne \u00f0\u009f\u0099\u008c"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600121712113,
+      "content": "Ohh et j'aime la pizza hawa\u00c3\u00afenne*"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600121672296,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600098662302,
+      "content": "Bon mixt par contre \u00f0\u009f\u0099\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Audrey Desch\u00c3\u00aanes-Picard"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600098640488,
+      "content": "Ouais haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600093375725,
+      "content": "Ahaha j'ai l'air d'une fille de pizza hawaienne?! C'\u00c3\u00a9tait \u00c3\u00a9pinard, pesto et saucisse :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600089898717,
+      "content": "Hawa\u00c3\u00afenne?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600089889390,
+      "content": "Quelle sorte tu as choisi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600089877329,
+      "content": "Haha bonne id\u00c3\u00a9e \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600045425658,
+      "content": "Le gout y \u00c3\u00a9tait oui :) je vais regarder des tutoriels pour la prochaine fois!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600044247087,
+      "content": "Elle etait bonne au moins?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600044235762,
+      "content": "C'est la que la technique est importante :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600044215286,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600037022527,
+      "content": "La p\u00c3\u00a2te \u00c3\u00a9tait bonne cest juste la transformation qui s'est mal d\u00c3\u00a9roul\u00c3\u00a9e"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600036980568,
+      "content": "Pleine de trous \u00f0\u009f\u00a5\u00b1"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1600032834948,
+      "content": "Haha comment \u00c3\u00a7a? Elle n'etait pas r\u00c3\u00a9ussi? \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1600013983690,
+      "content": "J'ai pr\u00c3\u00a9par\u00c3\u00a9 de la p\u00c3\u00a2te \u00c3\u00a0 pizza hier et j'ai pens\u00c3\u00a9 \u00c3\u00a0 toi :p je ne t'aurais pas montr\u00c3\u00a9 le r\u00c3\u00a9sultat de mon travail \u00f0\u009f\u0099\u0088"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595384056762,
+      "content": "Oui tellement:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595373727891,
+      "content": "Jolie!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595354618897,
+      "content": "Une ptite baie dans saint jean port joli!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595349694982,
+      "content": "C'est o\u00c3\u00b9 ton beau spot dans la story?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595349680596,
+      "content": "Ben mieux :o"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595344737170,
+      "content": "Je le pense pas je t'assure \u00f0\u009f\u0098\u009b"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595301199934,
+      "content": "Pr\u00c3\u00a9jug\u00c3\u00a9s \u00f0\u009f\u0098\u0091\u00f0\u009f\u0098\u00a1"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595301042780,
+      "content": "\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3 tu oses encore :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595207018591,
+      "content": "Ca doit pas \u00c3\u00aatre pire que travailler au gouvernement hihi :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595106909145,
+      "content": "Vrai! C'est vraiment plate pour toi! :/ \u00c3\u00a7a rend le tout moins int\u00c3\u00a9ressant pour toi"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595043852106,
+      "content": "Mais bon on est tous en mode sacrifices \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bc\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1595043171292,
+      "content": "Ouinn cest sur mais dans mon cas on \u00c3\u00a9tait des ptits groupes de discussion de 7-8..ca l'aurait ete facile de respecter la distance dans la classe en plus de rendre ca ben plus lfun."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595014758962,
+      "content": "Hey merde.. exactement ce que tu souhaitais pas... je pense qur beaucoup craignent la 2e vague :/"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594996641489,
+      "content": "Moi tous mes cours vont \u00c3\u00aatre a distance. \u00c3\u0087a me d\u00c3\u00a9courage un peu \u00f0\u009f\u0098\u0091"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594996600996,
+      "content": "\u00f0\u009f\u0098\u0085\u00f0\u009f\u00a4\u00a2"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1594989436306,
+      "content": "Ouainnn -_- ben h\u00c3\u00a2te de voir ca va donner quoi tout \u00c3\u00a7a \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594951767142,
+      "content": "Ahaha la joie \u00f0\u009f\u0098\u0085 \u00c3\u00a7\u00c3\u00a9tait le bon timing par contre avant la th\u00c3\u00a9matique bal masqu\u00c3\u00a9 \u00f0\u009f\u0098\u0091"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1594950050990,
+      "content": "J'ai fais un pub crawl en fin de semaine pass\u00c3\u00a9e et ca tout prit pour m'en remettre \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1594949991610,
+      "content": "Oui \u00c3\u00a7a va :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594944176108,
+      "content": "Ca va et toi?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594944164585,
+      "content": "Ahah non cest ben correct \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1594936092432,
+      "content": "\u00c3\u0087a va bien?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1594936085494,
+      "content": "Hey salut ! Excuse moi la lenteur de r\u00c3\u00a9ponse, j'ai eu une grosse journ\u00c3\u00a9e  :/"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594929562615,
+      "content": "Est-ce que je dois comprendre que tu souhaite pas quon se revoit? Je suis surprise je croyais quon avait pass\u00c3\u00a9 une belle soir\u00c3\u00a9e! Bref je pr\u00c3\u00a9f\u00c3\u00a8re que tu le dises et que \u00c3\u00a7a soit clair."
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1594867287301,
+      "content": "Hello!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593745134786,
+      "content": "Bonne nuit"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593745124449,
+      "content": "Ahah d'accord, moi aussi! Bonne nuit!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593745104834,
+      "content": "Oh oui"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593745095967,
+      "content": "L'heure du sommeil?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593745082503,
+      "content": "Bon cest lheure. A plus :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593745026359,
+      "content": "Okay :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744930039,
+      "content": "Jpas souvent sur les r\u00c3\u00a9seaux sociaux alors ca aide :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744901814,
+      "content": "Okay, t'es bonne :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744879291,
+      "content": "Ben jai lu un truc sur fb..mais cest tout"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744844963,
+      "content": "Mais oui bonne id\u00c3\u00a9e le hd :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744828491,
+      "content": "Je peux pas croire que t'as r\u00c3\u00a9ussi \u00c3\u00a0 t'en sortir sans te faire spoiler depuis 1 an?!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744805870,
+      "content": "Jai pas de t\u00c3\u00a9l\u00c3\u00a9 a mon apart pi cest le genre de truc tu \u00c3\u00a9coutes en hd"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744785573,
+      "content": "Il me reste juste la 8"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744717167,
+      "content": "T'es rendu o\u00c3\u00b9 ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744711490,
+      "content": "Haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744709298,
+      "content": "Chut"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744705808,
+      "content": "NON"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744698367,
+      "content": "Veux tu un spoil ? \u00f0\u009f\u0098\u00ac\u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744670187,
+      "content": "Jai pas regard\u00c3\u00a9 encore"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744661310,
+      "content": "Ahah..ca se gu\u00c3\u00a9ri peut etre \u00f0\u009f\u00a4\u0094 metton apr\u00c3\u00a8s avoir \u00c3\u00a9cout\u00c3\u00a9 dequoi de bon gout!?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744634611,
+      "content": "T'as pens\u00c3\u00a9 quoi de la saison 8 ?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744615064,
+      "content": "Game of throne. Quebecois jai ador\u00c3\u00a9 les simones"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744609265,
+      "content": "Jfais partie de la secte \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744574653,
+      "content": "Ouinnnn"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744571797,
+      "content": "Haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744564554,
+      "content": "Pas un autre qui trippe la dsus \u00f0\u009f\u0098\u00b6\u00f0\u009f\u00a4\u00af"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744545115,
+      "content": "Toi? :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744506786,
+      "content": "Ces temps ci j'\u00c3\u00a9coute dark!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744489511,
+      "content": "J'ai ben aim\u00c3\u00a9 the office :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744466470,
+      "content": "Ca d\u00c3\u00a9pend vraiment de mon mood! Fatigu\u00c3\u00a9 la lecture marche pas, donc netflix ultra l\u00c3\u00a9ger!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744420130,
+      "content": "Mais je suis aussi curieuse davoir tes incontournables :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744411941,
+      "content": "J'avais mal lu :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744406493,
+      "content": "Ahhh oups haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744384885,
+      "content": "Ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744380294,
+      "content": "Non? :o"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744380260,
+      "content": "Lequel des deux tu choisis"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593744367403,
+      "content": "Ahh non"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744354759,
+      "content": "Que je te conseil? Livre, homodeus! Netflix, bonne question, laisse moi y penser :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593744145719,
+      "content": "J'en prend note! Mais ouin c'est difficile.. faut vraiment que je remette \u00c3\u00a7a dans mes habitudes.. ma liste de livre s'accumule un peu trop"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593743872278,
+      "content": "Un bon livre ou une bonne s\u00c3\u00a9rie?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593743760533,
+      "content": "Oui vraiment..cest bien \u00c3\u00a9cris en plus je te le conseille! Je lisais vraiment plus avant netflix..jessais de recommencer"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593743575079,
+      "content": "J'\u00c3\u00a9tais tr\u00c3\u00a8s factuel dans mes informations, mais je pense que ce sera la prochaine \u00c3\u00a9tape. le c\u00c3\u00b4t\u00c3\u00a9 humain de ces \u00c3\u00a9v\u00c3\u00a9nements est vraiment int\u00c3\u00a9ressant !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593743511210,
+      "content": "Heinn \u00c3\u00a7a ben l'air int\u00c3\u00a9ressant!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593743459025,
+      "content": "1ere, 2e guerre mondiale et guerre froide. Tout bas\u00c3\u00a9 sur des faits historiques avec la perspectives des personnages qui restent aux 4 coins de la plan\u00c3\u00a8te et qui vivent la guerre de diff\u00c3\u00a9rentes facons"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593743375593,
+      "photos": [
+        {
+          "uri": "messages/inbox/audreydeschenespicard_603207154414259/photos/106603199_757357258403568_4208944685184270458_n_272727137508374.jpg",
+          "creation_timestamp": 1593743376
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593743116911,
+      "content": "Mais blanc l'\u00c3\u00a9t\u00c3\u00a9 c'est si rafra\u00c3\u00aechissant"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593743103239,
+      "content": "Rouge je crois"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593743097830,
+      "content": "Je connais pas! \u00c3\u0087a ressemble \u00c3\u00a0 quoi?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742879316,
+      "content": "Rouge ou blanc?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742872971,
+      "content": "Moi je pr\u00c3\u00a9f\u00c3\u00a8re lire des trucs romanc\u00c3\u00a9 avec une histoire d'amour au travers genre ken follet \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742844787,
+      "content": "Ohh cest l\u00c3\u00a9g\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742820300,
+      "content": "Bien-s\u00c3\u00bbr j'adore ;)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742810298,
+      "content": "2e guerre mondiale :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742527393,
+      "content": "Je tai pas demand\u00c3\u00a9 si tu aimais le vin?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742498839,
+      "content": "Ww2 \u00f0\u009f\u00a4\u0094\u00f0\u009f\u00a7\u0090"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742425829,
+      "content": "Moi tranquille, gym, r\u00c3\u00a9par\u00c3\u00a9 l'ordi finalement et documentaire sur la ww2 :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742382485,
+      "content": "Je fais la m\u00c3\u00aame chose pour la bi\u00c3\u00a8re \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742371508,
+      "content": "Haha okay compenser ;)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742217488,
+      "content": "Et toi ta soir\u00c3\u00a9e?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593742210192,
+      "content": "Cest pour me rattraper pour toute la cr\u00c3\u00a8me molle que je mange."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593742172827,
+      "content": "T'as quand m\u00c3\u00aame des bonnes soir\u00c3\u00a9es de semaines occup\u00c3\u00a9es! Sport en masse!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593741992420,
+      "content": "Oh oui okay :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593741957808,
+      "content": "Ben moi je parle dans l' \u00c3\u00a9chelle d\u00c3\u00a9valuation :p mais jpense quon parlait pas de la meme chose"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593741929388,
+      "content": "On jouait en double. Disons quon a pas trop compter les points"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593741919934,
+      "content": "Haha c'\u00c3\u00a9tait pas facile? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593741899975,
+      "content": "Je dirais que je me donne un 2.5\u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593741873067,
+      "content": "Oh tenis! C'est vrai, t'es class\u00c3\u00a9 5.73/10! As tu gagn\u00c3\u00a9? :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593741690831,
+      "content": "Ca va oui! Je reviens du tennis je vais dormir comme un b\u00c3\u00a9b\u00c3\u00a9. Et toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593741625752,
+      "content": "\u00c3\u0087a va bien?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593741621645,
+      "content": "Hey salut :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593741446454,
+      "content": "Hey :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593571452169,
+      "content": "Bien h\u00c3\u00a2te de voir \u00c3\u00a7a :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593566633387,
+      "content": "Pas ce soir parce que jai manqu\u00c3\u00a9 le coucher de soleil"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593566146427,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593566140140,
+      "content": "Attend que je tenvoie la photo de mon fleuve \u00f0\u009f\u0098\u008f"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593563731313,
+      "content": "Tiens une derni\u00c3\u00a8re juste pour faire comp\u00c3\u00a9tition \u00c3\u00a0 tes montagnes :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593563692466
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593563192554,
+      "content": "Mais ouin moi jvais prendre une bi\u00c3\u00a8re sur une terasse pour f\u00c3\u00aater le Canada! Haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593563163863,
+      "content": "Trop puissant ton service surement \u00f0\u009f\u0099\u0084",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Audrey Desch\u00c3\u00aanes-Picard"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593563035885,
+      "content": "Oh \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593562943797,
+      "content": "Non meme pas..en faisant un pauvre service par en bas"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593562922903,
+      "content": "Ohh..on reprend ca quand il fait beau"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593562862874,
+      "content": "C'est \u00c3\u00a7a que qu'on aurait pu avoir hier \u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593562818815
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593562769034,
+      "content": "Trop une grosse attaque? :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593562692155,
+      "content": "Et toi tu fais quoi ce soir"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593562684766,
+      "content": "Gros volley certain! Je me suis meme \u00c3\u00a9tir\u00c3\u00a9 quelque chose dans le bras \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593562288492,
+      "content": "Du gros volley qui se donne :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593562273454,
+      "content": "Oui!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593561766073,
+      "content": "Et toi ca va?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593561724005
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593561703330,
+      "content": "Super!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593560866683,
+      "content": "\u00c3\u0087a va bien?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593558201333,
+      "content": "Hello:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593554171247,
+      "content": "Hey salut :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593487384139,
+      "content": "Oui jai pass\u00c3\u00a9 une belle soiree aussi:)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593483783193,
+      "content": "C'\u00c3\u00a9tait bien comme soir\u00c3\u00a9e! Bonne route :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593473108560,
+      "content": "Ok j'arrive!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593473082869,
+      "content": "Jsuis la"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593472632961,
+      "content": "Ah ouin, en passant y'a pas mal de construction autour \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593471855438,
+      "content": "Fait pas tant chaud :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593471841778,
+      "content": "J'habite en face au 760 rue Sherbrooke! Text quand tes devant, je sortirai"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593471797459,
+      "content": "Bonn parfait haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593471688703,
+      "content": "Mon gps le connait"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593471538835,
+      "content": "Connais tu le parc lucien borne?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593471511489,
+      "content": "Je te rejoins ou exactement?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593465187040,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593464856453,
+      "content": "Oui sans probl\u00c3\u00a8me :p",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Audrey Desch\u00c3\u00aanes-Picard"
+        }
+      ]
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593464825618,
+      "content": "Allo. Est-ce 19h30 ca te va \u00f0\u009f\u0098\u00ac?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593396024408,
+      "content": "Tr\u00c3\u00a8s beau coin!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593393032822,
+      "content": "\u00f0\u009f\u0091\u008c je restais pres de la avant"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593391834052,
+      "content": "Pr\u00c3\u00a8s de la rue cartier!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593391166968,
+      "content": "Et tu restes dans quel coin?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593389135296,
+      "content": "Parfait alors"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593388745074,
+      "content": "Ca semble une bonne id\u00c3\u00a9e!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593388603245,
+      "content": "Donc, t'avais quoi en t\u00c3\u00aate? Si tu veux, pr\u00c3\u00a8s de chez moi j'ai un bon spot que j'adore pour prendre une bi\u00c3\u00a8re avec un vue sur la ville :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593388481187,
+      "content": "Je vois!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593388268330,
+      "content": "Non mais on a d\u00c3\u00a9cid\u00c3\u00a9 que demain c'\u00c3\u00a9tait cong\u00c3\u00a9 parce qu'on a pas pris notre mercredi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593388205917,
+      "content": "Tu travailles \u00c3\u00a0 distance j'imagine ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593388168906,
+      "content": "Je suis jaloux !"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593388020445,
+      "photos": [
+        {
+          "uri": "messages/inbox/audreydeschenespicard_603207154414259/photos/105973457_278904060208312_6031569404291284767_n_576380693075729.jpg",
+          "creation_timestamp": 1593388021
+        }
+      ]
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593387976930,
+      "content": "Pas mal! Au lac trois saumons"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593387846745,
+      "content": "Il est situ\u00c3\u00a9 o\u00c3\u00b9 ton chalet ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593387810206,
+      "content": "Okay haha tu es bien :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593387063123,
+      "content": "Je suis au chalet de mes parents \u00c3\u00a0 1h de qc \u00f0\u009f\u0098\u0085 jai des comissions \u00c3\u00a0 faire a qc demain"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593386781976,
+      "content": "T'habites dans quel coin ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593386761976,
+      "content": "Je sais pas, vers 7h?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593386597943,
+      "content": "Good :) tu serais dispo quand?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593384831532,
+      "content": "Good! On restera sage, c'est juste lundi apr\u00c3\u00a8s tout"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593374128568,
+      "content": "Demain ca marche pour moi finalement. Mais pas trop tard"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593317160538,
+      "content": "\u00f0\u009f\u0098\u008f une vraie taquineuse"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593317113119,
+      "content": "Tu oses \u00f0\u009f\u0098\u00b3"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593317098813,
+      "content": "Bonne soir\u00c3\u00a9e :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593317094098,
+      "content": "(dis le gars qui oublie ca plug d'ordi)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316995685,
+      "content": "Bon, bonne soir\u00c3\u00a9e miss d\u00c3\u00a9sorganis\u00c3\u00a9e :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316850561,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316747741,
+      "content": "Haha bonnn  je sais mettre de l'eau dans mon vin aussi \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Audrey Desch\u00c3\u00aanes-Picard"
+        }
+      ]
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316696133,
+      "content": "Oui\u00f0\u009f\u0098\u0085 miss sunshine qui se l\u00c3\u00a8ve avec la lumi\u00c3\u00a8re. Sinon je reste engourdie"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316653972,
+      "content": "Autre source de chicane ? :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316638767,
+      "content": "Ouff"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316635140,
+      "content": "Oui!"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316623568,
+      "content": "Audrey sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/le.noir"
+      }
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316606221,
+      "content": "Mais je suis pas assez rigide pour pas madapter si cest un deal breaker"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316592722,
+      "content": "Source de chicane ici"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316532535,
+      "content": "\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u00b3"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316496020,
+      "content": "Selon lhumeur du moment"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316489645,
+      "content": "Je pense que jy vais au feeling \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316444294,
+      "content": "Dis moi que tu mets le papier de toilet du bord qui descent sur le dessu"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316400269,
+      "content": "Haha bon ok j'admet"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316387434,
+      "content": "Jsais pas..finance pi toute"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316334021,
+      "content": "Pourquoi tu dis \u00c3\u00a7a? Haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316265358,
+      "content": "Oui! Surtout que la ca d\u00c3\u00a9confine bcp"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316175796,
+      "content": "Toi tu as l'air d'un gars assez organis\u00c3\u00a9..non?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316143355,
+      "content": "Ben non, s\u00c3\u00a9rieux je comprends \u00c3\u00a7a l'\u00c3\u00a9t\u00c3\u00a9 plein d'activit\u00c3\u00a9s pas facile g\u00c3\u00a9rer ;)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593316092026,
+      "content": "Je suis certain que ce petit c\u00c3\u00b4t\u00c3\u00a9 d\u00c3\u00a9sorganis\u00c3\u00a9 l\u00c3\u00a0 doit \u00c3\u00aatre attachant \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593316004042,
+      "content": "Yen a qui trouve ca attachant \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315936842,
+      "content": "Haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315935088,
+      "content": "Okay \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315903820,
+      "content": "C'est moi au quotidien. Ca me prend une secr\u00c3\u00a9taire"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315885852,
+      "content": "Non non meme pas"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315877236,
+      "content": "On s'en reparle demain haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315866154,
+      "content": "T'es soules? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315844528,
+      "content": "Merde jeudi je joue au tennis \u00f0\u009f\u0098\u0085 jsuis m\u00c3\u00aal\u00c3\u00a9e pour vrai je pense \u00c3\u00a0 ca et je te reviens"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315520938,
+      "content": "Okay, vendredi ma soeur monte \u00c3\u00a0 qc, mais jeudi pourrait etre bien"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593315492025,
+      "content": "En effet, \u00c3\u00a7a semble assez compliqu\u00c3\u00a9 tout \u00c3\u00a7a \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315476866,
+      "content": "Mais si tu es libre jeudi soir ou vendredi ca ferait encore mieux"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315061627,
+      "content": "Oui ca mint\u00c3\u00a9resse. Ca va etre plus simple se jaser de ca en vrai"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593315041429,
+      "content": "Ca fait un an que jhabite la."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593314401338,
+      "content": "Bref, je vais probablement \u00c3\u00aatre libre pour une bi\u00c3\u00a8re lundi soir si \u00c3\u00a7a t'int\u00c3\u00a9resse !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593310094872,
+      "content": "As tu ton appart et tout?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593310082716,
+      "content": "Mais \u00c3\u00a7a va officiellement \u00c3\u00aatre en classe \u00c3\u00a0 l'automne ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593310058404,
+      "content": "Correct belle exp\u00c3\u00a9rience :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593309913039,
+      "content": "Audrey sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/tellement.Moi"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593309412443,
+      "content": "Absolument! Moi, Qu\u00c3\u00a9bec est le compromis entre la campagne et la grande ville! Ayant d\u00c3\u00a9j\u00c3\u00a0 habit\u00c3\u00a9 \u00c3\u00a0 mtl, je trouve que l'ambiance est mieu \u00c3\u00a0 Qu\u00c3\u00a9bec et que la nature est plus proche :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593308390265,
+      "content": "Et toi pourquoi quebec?"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593308385054,
+      "content": "J'avais envie d'essayer de vivre dans une grande ville et j'aime assez \u00c3\u00a7a. Cest le bon moment pour le faire."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593307667278,
+      "content": "Pourquoi Montr\u00c3\u00a9al ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593307654694,
+      "content": "D'accord :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593307469759,
+      "content": "Oui..Alors disons que pour l'instant je cherche plut\u00c3\u00b4t quelque chose de casual pour l'\u00c3\u00a9t\u00c3\u00a9."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593307140421,
+      "content": "Tu vas \u00c3\u00a0 mtl :o"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593306743749,
+      "content": "Et je fais mon dess a luniversit\u00c3\u00a9 de montr\u00c3\u00a9al \u00c3\u00a0 lautomne. Mais je passe l\u00c3\u00a9t\u00c3\u00a9 au chalet de mes parents a 1h de qc..un peu m\u00c3\u00aalant."
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593306626619,
+      "content": "Saint jean port joli..presque \u00c3\u00a0 la frontiere du bas saint laurent"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593306570504,
+      "content": "Tu viens de Qu\u00c3\u00a9bec toi ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593306562867,
+      "content": "Ouaais exact! Pas grave :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593306526884,
+      "content": "Cest vrai que si tu es la juste pour quelques jours.."
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593306038547,
+      "content": "Ahaha seigneur..ben la jpense que jaurais commander une deuxieme charge\u00f0\u009f\u0092\u00a1"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593304097487,
+      "content": "Mais je d\u00c3\u00a9m\u00c3\u00a9nageais de Sherbrooke officiellement, \u00c3\u00a7a te donne une id\u00c3\u00a9e de la route que j'ai fais \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593304047431,
+      "content": "C'est pr\u00c3\u00a8s de Ottawa"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593304032576,
+      "content": "Bordel"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593304027328,
+      "content": "Oui hahaha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593303823967,
+      "content": "Ca m'arrive tout ltemps \u00f0\u009f\u0098\u0085 j'esp\u00c3\u00a8re que tu restes pas comme moi \u00c3\u00a0 4h de tes parents"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593302705496,
+      "content": "Oui pas de stress! Je vais peut-\u00c3\u00aatre revenir plus t\u00c3\u00b4t que pr\u00c3\u00a9vu, oubli\u00c3\u00a9 mon chargeur d'ordi \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593274076440,
+      "content": "Pas de probl\u00c3\u00a8me! Fais moi signe on pourra remettre \u00c3\u00a7a a ton retour."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593254767572,
+      "content": "Malheureusement non! Je pars chez mes parents pour quelques jours ! Je risque de revenir en d\u00c3\u00a9but de semaine :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593227847515,
+      "content": "Hello Charles! Tu es libre lundi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593048158981,
+      "content": "Haha merde \u00c3\u00a7a pas d\u00c3\u00bb \u00c3\u00aatre facile :p"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593047239595,
+      "content": "Seigneur. Je travaillais \u00c3\u00a0 8h ce matin."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593046750134,
+      "content": "J'avais pas vu l'heure de l'envoie \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593031675818,
+      "content": "Ya pas de rush \u00f0\u009f\u0098\u0085 je voulais juste savoir si tu avais de l'int\u00c3\u00a9r\u00c3\u00aat :)"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1593031548327,
+      "content": "Ahaha j\u00c3\u00a9tais festive hier!!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593013236429,
+      "content": "Petite bi\u00c3\u00a8re au parc prochainement?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593011598384,
+      "content": "Direct au but hein! \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1592986783279,
+      "content": "As tu envie quon se rencontre un jour? L"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1592958216253,
+      "content": "\u00f0\u009f\u0098\u0085oui"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1592952329322,
+      "content": "Je ne suis pas tant actif non plus"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1592952321481,
+      "content": "C'est chien!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1592952317758,
+      "content": "Quoi haha"
+    },
+    {
+      "sender_name": "Audrey Desch\u00c3\u00aanes-Picard",
+      "timestamp_ms": 1592950553553,
+      "content": "Bienvenue dans mon album photo personnel. Mon meilleur ami me trouve tellement silencieuse et plate qu'il s'est d\u00c3\u00a9sabonn\u00c3\u00a9 \u00f0\u009f\u0099\u0084"
+    }
+  ],
+  "title": "Audrey Desch\u00c3\u00aanes-Picard",
+  "is_still_participant": true,
+  "thread_path": "inbox/audreydeschenespicard_603207154414259",
+  "magic_words": [
+    
+  ]
+}

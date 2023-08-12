@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Fannie \u00f0\u009f\u008c\u00bb"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525872633815,
+      "content": "Okay!"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525872327634,
+      "content": "Non c'est moi qui avait mon cell proche quand on sest mis \u00c3\u00a0 demander \u00c3\u00a0 plein de monde"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525872192755,
+      "content": "Il nous manque tout en ce moment, on prend tout squi passe"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525871687143,
+      "content": "Kelly \u00c3\u00a9tait trop g\u00c3\u00aan\u00c3\u00a9 de me le demander? \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525871668203,
+      "content": "Mais il vous manque quoi exactement?"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525871437725,
+      "content": "Ahhhh okk cest bon"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525868280447,
+      "content": "Dans l'fond c'est que tout mai jusqu'\u00c3\u00a0 environ mi-juin je suis load\u00c3\u00a9, donc je m'attend \u00c3\u00a0 un juiillet et aout d'activit\u00c3\u00a9... Dont surement le camping ..."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525868201314,
+      "content": "C'est comme exactement ma p\u00c3\u00a9riode que je peux en faire :/"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525861025467,
+      "content": "Stppppppppppp"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525844550481,
+      "content": "Em emm"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525832948243,
+      "content": "3 juillet au 15 aout"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525832928002,
+      "content": "Juillet \u00c3\u00a0 aout"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1525832798708,
+      "content": "Vous partez de quand \u00c3\u00a0 quand?"
+    },
+    {
+      "sender_name": "Fannie \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1525830219205,
+      "content": "Hey monsieur le m\u00c3\u00a2le, as tu besoin de ton \u00c3\u00a9quipement de camping en juillet? Je sais que t'en fesais beaucoup avant... ce serait un geste tr\u00c3\u00a8s g\u00c3\u00a9n\u00c3\u00a9reux pour deux pauvres poulettes \u00f0\u009f\u0098\u0087"
+    }
+  ],
+  "title": "Fannie \u00f0\u009f\u008c\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/fannie_544371043631204",
+  "magic_words": [
+    
+  ]
+}

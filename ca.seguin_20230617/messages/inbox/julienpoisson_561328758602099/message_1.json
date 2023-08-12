@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Julien Poisson"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1656766647932,
+      "content": "J'ai pas vu! C'\u00c3\u00a9tait quoi?"
+    },
+    {
+      "sender_name": "Julien Poisson",
+      "timestamp_ms": 1656516876651,
+      "content": "Ton trio de la st jean?"
+    },
+    {
+      "sender_name": "Julien Poisson",
+      "timestamp_ms": 1656516876419,
+      "share": {
+        "original_content_owner": "greatgooby"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593384593696,
+      "content": "Vrai!"
+    },
+    {
+      "sender_name": "Julien Poisson",
+      "timestamp_ms": 1593372733111,
+      "content": "Ahhh ouin rarement bonne au Qu\u00c3\u00a9bec et tout est brun. On prend ce qu\u00e2\u0080\u0099on a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593371219046,
+      "content": "Ah oui! Int\u00c3\u00a9ressant! La visibilit\u00c3\u00a9 pass\u00c3\u00a9 le barrage est pas ben ben bonne"
+    },
+    {
+      "sender_name": "Julien Poisson",
+      "timestamp_ms": 1593369792477,
+      "content": "Tu peux trouver des petites \u00c3\u00a9pave dans le parc des voyageurs \u00c3\u00a0 c\u00c3\u00b4t\u00c3\u00a9",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2341632894038348888"
+      }
+    }
+  ],
+  "title": "Julien Poisson",
+  "is_still_participant": true,
+  "thread_path": "inbox/julienpoisson_561328758602099",
+  "magic_words": [
+    
+  ]
+}

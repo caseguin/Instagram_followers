@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Viviane Boss\u00c3\u00a9-Beal"
+    },
+    {
+      "name": "Marie-Pier Se\u00cc\u0081guin"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1489617443559,
+      "content": "Woooorrmmm"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1489617438937,
+      "content": "Avahahahahahahah"
+    },
+    {
+      "sender_name": "Viviane Boss\u00c3\u00a9-Beal",
+      "timestamp_ms": 1489543530706,
+      "content": "Hahahaha hahahah"
+    },
+    {
+      "sender_name": "Marie-Pier Se\u00cc\u0081guin",
+      "timestamp_ms": 1489540753051,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Viviane Boss\u00c3\u00a9-Beal"
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/BRo0A4Mj2Y6/",
+        "share_text": "Bruises for DAYZ!!!",
+        "original_content_owner": "girlwithnojob"
+      }
+    }
+  ],
+  "title": "Viviane Boss\u00c3\u00a9-Beal and Marie-Pier Se\u00cc\u0081guin",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivianebossebealandmariepierseguin_2498416493579410",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

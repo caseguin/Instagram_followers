@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Sam Toutant"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sam Toutant",
+      "timestamp_ms": 1664707935643,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2939902333682783976"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1643594535115,
+      "content": "C'est claire!"
+    },
+    {
+      "sender_name": "Sam Toutant",
+      "timestamp_ms": 1643588997734,
+      "content": "Bah c\u00e2\u0080\u0099est plus proche pour moi :p mais \u00c3\u00a9ventuellement j\u00e2\u0080\u0099aimerais aller dans le coin de Qc pour de plus grandes montagnes haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1643588695925,
+      "content": "Pour l'instant ici, mais \u00c3\u00a7a va clairement venir! C'est ton spot l'estrie?"
+    },
+    {
+      "sender_name": "Sam Toutant",
+      "timestamp_ms": 1643587074788,
+      "content": "Allez vous en estrie des fois ou vous restez pas mal dans votre coin?"
+    },
+    {
+      "sender_name": "Sam Toutant",
+      "timestamp_ms": 1643587054789,
+      "content": "Cool"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1643585386509,
+      "content": "Massif du sud!"
+    },
+    {
+      "sender_name": "Sam Toutant",
+      "timestamp_ms": 1643583445985,
+      "content": "Nice! Vous \u00c3\u00a9tiez dans quel coin?",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2762898203591668832"
+      }
+    }
+  ],
+  "title": "Sam Toutant",
+  "is_still_participant": true,
+  "thread_path": "inbox/samtoutant_771232887602012",
+  "magic_words": [
+    
+  ]
+}

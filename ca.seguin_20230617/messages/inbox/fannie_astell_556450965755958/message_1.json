@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "fannie_astell"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1540667083264,
+      "content": "Je vois ca\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540656363854,
+      "content": "T'es pas l\u00c3\u00a0 pour prendre soin de moi \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1540648433965,
+      "content": "Je te laisse seul quelque temps et tu te casses le pied\u00f0\u009f\u0099\u0084\u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1540648409786,
+      "content": "Comment tu t\u00e2\u0080\u0099es fait ca?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540647740248,
+      "content": "Quoi haha"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1540646999769,
+      "content": "Bin voyons??"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540645178277,
+      "content": "Ca brasse \u00c3\u00a0 sherby :/"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1540611398552,
+      "content": "???? Qu\u00e2\u0080\u0099est-ce qu\u00e2\u0080\u0099il s\u00e2\u0080\u0099est pass\u00c3\u00a9?",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1899041089768195275"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1533132864818,
+      "content": "Ouais quand tu veux haha"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1533089766038,
+      "content": "Je pensais que c\u00e2\u0080\u0099etait moi que tu devais amener faire un tour \u00f0\u009f\u0099\u0084\u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "fannie_astell",
+      "timestamp_ms": 1533089766038,
+      "share": {
+        "link": "https://www.instagram.com/p/Bl6gUg-h8_TGVWG0GObiYtWSd_WrkaP7TBg6Go0/",
+        "share_text": "Balade avec la ptite soeur adopt\u00c3\u00a9e\n.\n.\n#lilblakie #2wheels #sherbylove\n#bike #motoguzzi",
+        "original_content_owner": "ca.seguin"
+      }
+    }
+  ],
+  "title": "fannie_astell",
+  "is_still_participant": true,
+  "thread_path": "inbox/fannie_astell_556450965755958",
+  "magic_words": [
+    
+  ]
+}

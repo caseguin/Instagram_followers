@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Kevin Gaboury"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kevin Gaboury",
+      "timestamp_ms": 1676157450804,
+      "content": "Kevin shared a story."
+    }
+  ],
+  "title": "Kevin Gaboury",
+  "is_still_participant": true,
+  "thread_path": "inbox/kevingaboury_1136508787747749",
+  "magic_words": [
+    
+  ]
+}

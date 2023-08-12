@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "taliatawil"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1555331173146,
+      "content": "Il est malade \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "taliatawil",
+      "timestamp_ms": 1555329587211,
+      "content": "I've always had blue eyes !!! \nCa ma dead \u00f0\u009f\u00a4\u00a3"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1555328545663,
+      "content": "\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "taliatawil",
+      "timestamp_ms": 1555296947326,
+      "content": "Lettsggoo",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2022242925727392256"
+      }
+    }
+  ],
+  "title": "taliatawil",
+  "is_still_participant": true,
+  "thread_path": "inbox/taliatawil_559469218786240",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Noe Bernier"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Noe Bernier",
+      "timestamp_ms": 1582511022749,
+      "content": "C\u00e2\u0080\u0099est ben correct \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1582511002645,
+      "content": "En ce moment je vois quelqu'un \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1582510989385,
+      "content": "Un jour peut \u00c3\u00aatre :p"
+    },
+    {
+      "sender_name": "Noe Bernier",
+      "timestamp_ms": 1582469045887,
+      "content": "C\u00e2\u0080\u0099est quand qu\u00e2\u0080\u0099on va prendre un verre"
+    },
+    {
+      "sender_name": "Noe Bernier",
+      "timestamp_ms": 1582469039553,
+      "content": "\u00f0\u009f\u00a5\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1566686683354,
+      "content": "Un peu de boisson et on est bien je te jure \u00f0\u009f\u0098\u008f"
+    },
+    {
+      "sender_name": "Noe Bernier",
+      "timestamp_ms": 1566685622109,
+      "content": "Crime on g\u00c3\u00a8le dehors \u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2117833162276327724"
+      }
+    }
+  ],
+  "title": "Noe Bernier",
+  "is_still_participant": true,
+  "thread_path": "inbox/noebernier_585024619565846",
+  "magic_words": [
+    
+  ]
+}

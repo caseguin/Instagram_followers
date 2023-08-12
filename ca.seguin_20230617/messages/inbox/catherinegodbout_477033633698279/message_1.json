@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Catherine Godbout"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1609728263983,
+      "content": "Bonne ann\u00c3\u00a9e \u00c3\u00a0 toi aussi !"
+    },
+    {
+      "sender_name": "Catherine Godbout",
+      "timestamp_ms": 1609725353909,
+      "content": "Haha d'accord je suis d\u00c3\u00a9sol\u00c3\u00a9e. Bonne ann\u00c3\u00a9e \u00c3\u00a0 vous deux \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1609722506133,
+      "content": "Salut, tu m'apprends que j'ai encore un compte! Je t'annonce cependant que je suis en couple!"
+    },
+    {
+      "sender_name": "Catherine Godbout",
+      "timestamp_ms": 1609722138124,
+      "content": "Salut Charles-Antoine, je t'ai vu sur Fruitz alors je t'ai envoy\u00c3\u00a9 une demande sur instagram."
+    }
+  ],
+  "title": "Catherine Godbout",
+  "is_still_participant": true,
+  "thread_path": "inbox/catherinegodbout_477033633698279",
+  "magic_words": [
+    
+  ]
+}

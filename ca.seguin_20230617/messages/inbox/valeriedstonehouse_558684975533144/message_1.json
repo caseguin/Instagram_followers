@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Val\u00c3\u00a9rie D. Stonehouse"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1549192142168,
+      "content": "Hehe ;)"
+    },
+    {
+      "sender_name": "Val\u00c3\u00a9rie D. Stonehouse",
+      "timestamp_ms": 1549172638058,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1970879655146032675"
+      }
+    }
+  ],
+  "title": "Val\u00c3\u00a9rie D. Stonehouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/valeriedstonehouse_558684975533144",
+  "magic_words": [
+    
+  ]
+}

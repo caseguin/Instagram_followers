@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Xavier Luneau-Gagn\u00c3\u00a9"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1686475423682,
+      "content": "\u00f0\u009f\u00a4\u00aa\u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "Xavier Luneau-Gagn\u00c3\u00a9",
+      "timestamp_ms": 1686473665944,
+      "content": "Il s'arrange pour qu'il nous attaque, ils sauvent des anaconda de 2m avant de les remettre dans jungle les caliss"
+    },
+    {
+      "sender_name": "Xavier Luneau-Gagn\u00c3\u00a9",
+      "timestamp_ms": 1686473664031,
+      "content": "Reacted \u00f0\u009f\u0098\u0082 to your message "
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1686452432040,
+      "content": "Attention aux gros serpents",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Xavier Luneau-Gagn\u00c3\u00a9"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1676156973448,
+      "content": "You shared a story."
+    },
+    {
+      "sender_name": "Xavier Luneau-Gagn\u00c3\u00a9",
+      "timestamp_ms": 1676151968629,
+      "content": "Xavier shared a story."
+    }
+  ],
+  "title": "Xavier Luneau-Gagn\u00c3\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/xavierluneaugagne_1048020853267110",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "participants": [
+    {
+      "name": "Thomas Duplessis"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1549161029387,
+      "content": "Niceeee"
+    }
+  ],
+  "title": "Thomas Duplessis",
+  "is_still_participant": true,
+  "thread_path": "inbox/thomasduplessis_577097937022925",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Babies"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Babies",
+      "timestamp_ms": 1595956548892,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595950388372
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595784590548,
+      "content": "Ouiii"
+    },
+    {
+      "sender_name": "Babies",
+      "timestamp_ms": 1595782704612,
+      "content": "Jveux te voir"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1595777359025,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "Babies",
+      "timestamp_ms": 1595731109880,
+      "content": "Hi"
+    }
+  ],
+  "title": "Babies",
+  "is_still_participant": true,
+  "thread_path": "inbox/babies_562857701782538",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Cath(ou) Bergy"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cath(ou) Bergy",
+      "timestamp_ms": 1644636442838,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1644636332026,
+      "content": "Enjoy \u00f0\u009f\u0099\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Cath(ou) Bergy"
+        }
+      ]
+    },
+    {
+      "sender_name": "Cath(ou) Bergy",
+      "timestamp_ms": 1644635354207,
+      "content": "Ou mais vrmt\nBeau :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1644635332257,
+      "content": "C'\u00c3\u00a9tait comment? La mont\u00c3\u00a9e en dernier c'est sp\u00c3\u00a9cial avoues :p"
+    },
+    {
+      "sender_name": "Cath(ou) Bergy",
+      "timestamp_ms": 1644635054535,
+      "content": "Oui :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1644634886243,
+      "content": "Allo! Est-ce que vous avez fait le mon Ligori?"
+    }
+  ],
+  "title": "Cath(ou) Bergy",
+  "is_still_participant": true,
+  "thread_path": "inbox/cathoubergy_825039758897663",
+  "magic_words": [
+    
+  ]
+}

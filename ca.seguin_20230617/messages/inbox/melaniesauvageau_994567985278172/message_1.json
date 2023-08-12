@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "M\u00c3\u00a9lanie Sauvageau"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664155093485,
+      "content": "\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664155074967,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664149874982,
+      "content": "Not bad :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "M\u00c3\u00a9lanie Sauvageau"
+        }
+      ]
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664148942108
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664148941594
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664138759837,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664138695554,
+      "content": "Sa ptite facee",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "M\u00c3\u00a9lanie Sauvageau"
+        }
+      ]
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664138385077
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664138350169,
+      "content": "ouiii"
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664138348960,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664138341900,
+      "content": "Oui! Toi?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "M\u00c3\u00a9lanie Sauvageau"
+        }
+      ]
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664137299952,
+      "content": "\u00c3\u00a7a va bien?:)"
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664137296201,
+      "content": "Salut :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664129013507,
+      "content": "Salut*"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664129006166,
+      "content": "Salug mel"
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664124711763,
+      "content": "on a eu un match \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "M\u00c3\u00a9lanie Sauvageau",
+      "timestamp_ms": 1664124701454,
+      "content": "Salut :)"
+    }
+  ],
+  "title": "M\u00c3\u00a9lanie Sauvageau",
+  "is_still_participant": true,
+  "thread_path": "inbox/melaniesauvageau_994567985278172",
+  "magic_words": [
+    
+  ]
+}

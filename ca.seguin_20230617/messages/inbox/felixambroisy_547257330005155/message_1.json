@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Felix Ambroisy"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Felix Ambroisy",
+      "timestamp_ms": 1549254916441,
+      "content": "hahahaha wow"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1549254799337,
+      "content": "Moi gin eau bcaa haha"
+    },
+    {
+      "sender_name": "Felix Ambroisy",
+      "timestamp_ms": 1549251789011,
+      "content": "C\u00e2\u0080\u0099est legit mon nouveau drink prefere"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1549251765194,
+      "content": "Ouais c'est solide"
+    },
+    {
+      "sender_name": "Felix Ambroisy",
+      "timestamp_ms": 1549244459835,
+      "content": "Essaies un mojito avec du basilic",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1970879655146032675"
+      }
+    }
+  ],
+  "title": "Felix Ambroisy",
+  "is_still_participant": true,
+  "thread_path": "inbox/felixambroisy_547257330005155",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "michel seguin"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1663108041715,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CidrE9pvFNWmcMPQhax_ZuzrNskUNYllbNSF2Y0/?carousel_share_child_media_id=2926684789937034070_1703749304",
+        "share_text": "Journey > Destination",
+        "original_content_owner": "ca.seguin"
+      }
+    }
+  ],
+  "title": "michel seguin",
+  "is_still_participant": true,
+  "thread_path": "inbox/michelseguin_645570623637485",
+  "magic_words": [
+    
+  ]
+}

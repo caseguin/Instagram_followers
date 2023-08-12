@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Laurie Tremblay"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574717458147,
+      "content": "Pas le choix haha"
+    },
+    {
+      "sender_name": "Laurie Tremblay",
+      "timestamp_ms": 1574705450948,
+      "content": "Bon, faudra que j\u00e2\u0080\u0099y retourne! \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574632260395,
+      "content": "Oui! Calama c'est pas super, mais on a fait San \nPedro d'Atacama et Iquique, les paysages sont incroyables."
+    },
+    {
+      "sender_name": "Laurie Tremblay",
+      "timestamp_ms": 1574621285489,
+      "content": "\u00c3\u0087a a valu la peine, le nord du Chili? J\u00e2\u0080\u0099ai pas eu le temps d\u00e2\u0080\u0099y aller et je regrettais!",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2184388736249705838"
+      }
+    }
+  ],
+  "title": "Laurie Tremblay",
+  "is_still_participant": true,
+  "thread_path": "inbox/laurietremblay_518898209515811",
+  "magic_words": [
+    
+  ]
+}

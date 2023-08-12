@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Genevi\u00c3\u00a8ve Paquette"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534979210409,
+      "content": "Loll"
+    },
+    {
+      "sender_name": "Genevi\u00c3\u00a8ve Paquette",
+      "timestamp_ms": 1534979018461,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1851812459514853465"
+      }
+    }
+  ],
+  "title": "Genevi\u00c3\u00a8ve Paquette",
+  "is_still_participant": true,
+  "thread_path": "inbox/genevievepaquette_550552609674222",
+  "magic_words": [
+    
+  ]
+}

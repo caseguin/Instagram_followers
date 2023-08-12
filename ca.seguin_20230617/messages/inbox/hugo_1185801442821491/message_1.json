@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Hugo"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hugo",
+      "timestamp_ms": 1686068117078,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1686068100205,
+      "content": "Yes for sure!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Hugo"
+        }
+      ]
+    },
+    {
+      "sender_name": "Hugo",
+      "timestamp_ms": 1686068033517,
+      "content": "Ah Yess tell me if u go there bro"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1686067702094,
+      "content": "Oh yeah, we saw the flyers! We'll probably take it slow tho!"
+    },
+    {
+      "sender_name": "Hugo",
+      "timestamp_ms": 1686062807208,
+      "content": "Oxa Beach*"
+    },
+    {
+      "sender_name": "Hugo",
+      "timestamp_ms": 1686062799205,
+      "content": "What are you doing tomorrow ?? There\u00e2\u0080\u0099s a big party in pcq beach"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1686061624083,
+      "content": "Yess"
+    },
+    {
+      "sender_name": "Hugo",
+      "timestamp_ms": 1686053807454,
+      "content": "You\u00e2\u0080\u0099re in phangan??"
+    }
+  ],
+  "title": "Hugo",
+  "is_still_participant": true,
+  "thread_path": "inbox/hugo_1185801442821491",
+  "magic_words": [
+    
+  ]
+}

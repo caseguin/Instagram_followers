@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "E\u00cc\u0080ve Turmel"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1547396121536,
+      "content": "\u00c3\u0087a va? :)"
+    },
+    {
+      "sender_name": "E\u00cc\u0080ve Turmel",
+      "timestamp_ms": 1547389735988,
+      "content": "Hey"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1547348785547,
+      "content": "Salut!"
+    }
+  ],
+  "title": "E\u00cc\u0080ve Turmel",
+  "is_still_participant": true,
+  "thread_path": "inbox/eveturmel_589022582499383",
+  "magic_words": [
+    
+  ]
+}

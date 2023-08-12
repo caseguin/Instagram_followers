@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "\u00c3\u0089milie Bisson"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c3\u0089milie Bisson",
+      "timestamp_ms": 1481432864467,
+      "content": "Good \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bc c'est gentil !"
+    },
+    {
+      "sender_name": "\u00c3\u0089milie Bisson",
+      "timestamp_ms": 1481432848727,
+      "content": "Euh ouai haha je grimpe mes marches mais j'arrive a rentr\u00c3\u00a9 haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1481432829621,
+      "content": "Dans le temps des fetes probablement"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1481432814457,
+      "content": "J'espere que tu peux ouvrir ta maison pareil"
+    },
+    {
+      "sender_name": "\u00c3\u0089milie Bisson",
+      "timestamp_ms": 1481432789370,
+      "content": "Quand est ce que tu me le redonne"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1481432788846,
+      "content": "Okayy"
+    },
+    {
+      "sender_name": "\u00c3\u0089milie Bisson",
+      "timestamp_ms": 1481432780543,
+      "content": "I know"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1481432762306,
+      "content": "Dude j'ai ton porte clef"
+    }
+  ],
+  "title": "\u00c3\u0089milie Bisson",
+  "is_still_participant": true,
+  "thread_path": "inbox/emiliebisson_515368613201226",
+  "magic_words": [
+    
+  ]
+}

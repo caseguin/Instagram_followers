@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Ananass"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ananass",
+      "timestamp_ms": 1665701586486,
+      "content": "Ananass sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Cjq932oOTblr1nE1n9SeOd-wzyxplZVjMy87Lo0/?carousel_share_child_media_id=2948441025132705509_40887927",
+        "share_text": "Choy\u00c3\u00a9e \u00f0\u009f\u00a7\u0080",
+        "original_content_owner": "anais_tessier"
+      }
+    },
+    {
+      "sender_name": "Ananass",
+      "timestamp_ms": 1664668105368,
+      "content": "Ananass shared a story."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1664666376099,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2939756981766220405"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1654981591363,
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2858515106367991519"
+      }
+    },
+    {
+      "sender_name": "Ananass",
+      "timestamp_ms": 1654980296491,
+      "share": {
+        "link": "https://instagram.com/stories/anais_tessier/2858504154535807026"
+      }
+    }
+  ],
+  "title": "Ananass",
+  "is_still_participant": true,
+  "thread_path": "inbox/ananass_898058481594468",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "participants": [
+    {
+      "name": "Miriam Bass"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581687059695,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/Le.boulot"
+      }
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581629511751,
+      "content": "Ouais je peux pas vraiment prendre plus de vacances que \u00c3\u00a7a  :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581598069037,
+      "content": "Ce f\u00c3\u00bbt bref :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581548001554,
+      "content": "Je pars ce soir, j\u00e2\u0080\u0099ai h\u00c3\u00a2te d\u00e2\u0080\u0099\u00c3\u00a9changer la pluie contre de la neige!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581547957323,
+      "content": "\u00c3\u0087a s\u00e2\u0080\u0099appelle Wembury"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581511533267,
+      "content": "Comment s'appelle o\u00c3\u00b9 tu es?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581511515601,
+      "content": "Oui je comprends :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581364162280,
+      "content": "Seule chose qui manque c\u00e2\u0080\u0099est la vari\u00c3\u00a9t\u00c3\u00a9 de restaurants qu\u00e2\u0080\u0099on a en ville!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581364099790,
+      "content": "J\u00e2\u0080\u0099ai toujours ador\u00c3\u00a9 venir en Angleterre, ma famille habite dans un petit village, l\u00e2\u0080\u0099esprit de communaut\u00c3\u00a9 ici est incroyable, la vie est tranquille, le paysage superbe.. y\u00e2\u0080\u0099a des quiz dans le pub \u00c3\u00a0 chaque mercredi et des films \u00c3\u00a0 chaque semaine!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581356326561,
+      "content": "Mais la tranquilit\u00c3\u00a9 et l'esprit de communaut\u00c3\u00a9 de la campagne est bien aussi :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581356301729,
+      "content": "C'est cool pareil! J'aime la vie l\u00c3\u00a0-bas et le choix d'activit\u00c3\u00a9s :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581353728513,
+      "content": "Mais j\u00e2\u0080\u0099aimerais aussi Montr\u00c3\u00a9al mais pour une courte p\u00c3\u00a9riode de temps, juste pour avoir v\u00c3\u00a9cu dans la grande ville \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581353634202,
+      "content": "Hmmm difficile \u00c3\u00a0 dire haha. J\u00e2\u0080\u0099ai tjrs aim\u00c3\u00a9 les petits villages autour de Sherbrooke mais Je pense que je pr\u00c3\u00a9f\u00c3\u00a8re Qu\u00c3\u00a9bec, c\u00e2\u0080\u0099est pas trop grand et t\u00e2\u0080\u0099as le charme des petits villages \u00c3\u00a0 quelques places :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581303631602,
+      "content": "Toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581303623762,
+      "content": "C'est charmant :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581303584207,
+      "content": "C'est comme un entre 2 de Montr\u00c3\u00a9al et Sherbrooke !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581303536830,
+      "content": "Qu\u00c3\u00a9bec!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581296760034,
+      "content": "Ah d\u00e2\u0080\u0099accord! Quelle ville a tu pr\u00c3\u00a9f\u00c3\u00a9r\u00c3\u00a9 habiter, Sherbrooke/Qu\u00c3\u00a9bec, ou pr\u00c3\u00a9f\u00c3\u00a8res tu mieux \u00c3\u00a7a en campagne?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581295762752,
+      "content": "Oui! Entre Montr\u00c3\u00a9al et Ottawa, \u00c3\u00a7a s'appelle pointe-fortune :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581291129548,
+      "content": "T\u00e2\u0080\u0099avais pas dit que tu venais de pr\u00c3\u00a8s de mtl? C\u00e2\u0080\u0099est quoi ton village?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581277002650,
+      "content": "Moi c'est quand je retourne dans mon village :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581276985020,
+      "content": "C'est s\u00c3\u00bbr que oui :o"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581276741182,
+      "content": "Il doit quand m\u00c3\u00aame y avoir des places pour faire du kayak \u00c3\u00a0 Qu\u00c3\u00a9bec, j\u00e2\u0080\u0099ai pas vrmt cherch\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581276675858,
+      "content": "Seulement quand je retourne \u00c3\u00a0 Sherbrooke/north Hatley"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581276622578,
+      "content": "J\u00e2\u0080\u0099ai pas vraiment eu la chance d\u00e2\u0080\u0099aller bcp sur l\u00e2\u0080\u0099eau cet \u00c3\u00a9t\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581276595593,
+      "content": "Ah mais c\u00e2\u0080\u0099est mieux que rien! :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581274016465,
+      "content": "Je n'en fais vraiment pas souvent par contre"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581273999396,
+      "content": "Bien s\u00c3\u00bbr \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581273126234,
+      "content": "T\u00e2\u0080\u0099as tu ton permis toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581272874464,
+      "content": "Heinn :o ch\u00c3\u00a8re pareil \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581271285069,
+      "content": "J\u00e2\u0080\u0099ai eu un ticket ya quelques ann\u00c3\u00a9es, 300$ pour pas avoir de permis \u00f0\u009f\u0098\u00ac mais comme tu dis c\u00e2\u0080\u0099est pas difficile en avoir un, alors jpeux pas ben ben me plaindre.."
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581271146715,
+      "content": "Haha ouais je sais, C\u00e2\u0080\u0099est juste que j\u00e2\u0080\u0099y pense jamais et j\u00e2\u0080\u0099ai pas voulu mettre le minimum d\u00e2\u0080\u0099effort  pour l\u00e2\u0080\u0099avoir \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581270457876,
+      "content": "C'esr pas ben brn dure avoir un permis ici :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581270442501,
+      "content": "Ohh okay :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581267206486,
+      "content": "Donc oui petite chaloupe :) pas besoin de permis pour conduire les bateaux en Angleterre alors j\u00e2\u0080\u0099en profites ici!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581267167179,
+      "content": "Cest un petit bateau de p\u00c3\u00aache pas de voile, \u00c3\u00a0 moteur"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581267100040,
+      "content": "Ouais mais c\u00e2\u0080\u0099est pas toujours comme \u00c3\u00a7a. L\u00e2\u0080\u0099hiver c\u00e2\u0080\u0099est ps rare qu\u00e2\u0080\u0099il neige mais \u00c3\u00a0 date c\u00e2\u0080\u0099est pas mal juste de la pluie"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581262062801,
+      "content": "Chaloupe?\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581262052016,
+      "content": "Mais bateau... quel type ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581262027657,
+      "content": "C'est r\u00c3\u00a9put\u00c3\u00a9 pour \u00c3\u00aatre tr\u00c3\u00a8s gris me semble?"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581260320233,
+      "content": "Ici ya pas de temp\u00c3\u00aate de neige, mais \u00c3\u00a9norm\u00c3\u00a9ment de vent et de pluie right now... c\u00e2\u0080\u0099est plate, on peut pas profiter du bateau \u00f0\u009f\u0098\u0095"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581260135479,
+      "content": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581260129777,
+      "content": "Faut dire que le d\u00c3\u00a9but du film \u00c3\u00a9tait un peu lent, j\u00e2\u0080\u0099ai pas manqu\u00c3\u00a9 grand chose, sauf la raison pourquoi ils devaient stopper la bataille \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581222695132,
+      "content": "\u00f0\u009f\u0098\u0090"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581222690859,
+      "content": "Maia devant un bon film"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581222669852,
+      "content": "Jsuis jaloux"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581222636487,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581160568276,
+      "content": "It\u00e2\u0080\u0099s my main superpower"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581160519253,
+      "content": "Mais j\u00e2\u0080\u0099arrive \u00c3\u00a0 m\u00e2\u0080\u0099endormir pas mal n\u00e2\u0080\u0099importe o\u00c3\u00b9"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581160499836,
+      "content": "Les chaises \u00c3\u00a9taient vrmt confortables..."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581122827837,
+      "content": "Comment tu fais pour t'endormir :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581122817787,
+      "content": "\u00c3\u0087a bougeait pas mal en plus"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581122808306,
+      "content": "Haha shame \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581105621387,
+      "content": "Oui c\u00e2\u0080\u0099\u00c3\u00a9tait bien fait! Faut dire que je me suis endormie au pendant les 10 premi\u00c3\u00a8res minutes du film mais apr\u00c3\u00a8s \u00c3\u00a7a j\u00e2\u0080\u0099\u00c3\u00a9tais r\u00c3\u00a9veill\u00c3\u00a9e et int\u00c3\u00a9ress\u00c3\u00a9e \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581089669476,
+      "content": "Mais le c\u00c3\u00b4t\u00c3\u00a9 technique du film \u00c3\u00a9tait tr\u00c3\u00a8s int\u00c3\u00a9ressant aussi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581089631385,
+      "content": "J'ai ador\u00c3\u00a9 \u00f0\u009f\u0098\u00b3"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581067363382,
+      "content": "T\u00e2\u0080\u0099as tu vu 1917? On est all\u00c3\u00a9s l\u00e2\u0080\u0099\u00c3\u00a9couter au cin\u00c3\u00a9ma il y a quelques jours, c\u00e2\u0080\u0099\u00c3\u00a9tait vrmt bon"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581044846122,
+      "content": "\u00f0\u009f\u0098\u00b3\u00f0\u009f\u0098\u008d j'\u00c3\u00a9coute tous les films ou ducumentaires! C'est fascinant :o"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581040004822,
+      "content": "Ils sont forts sur l\u00e2\u0080\u0099histoire des guerres en Angleterre, pleins de mus\u00c3\u00a9es partout. Mon p\u00c3\u00a8re et mon oncle connaissent toutes les sortes d\u00e2\u0080\u0099avions et de bateaux qui \u00c3\u00a9taient utilis\u00c3\u00a9s, c\u00e2\u0080\u0099est pas mon point fort par contre \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581039715286,
+      "content": "Europe c\u00e2\u0080\u0099est super, surtout que de voyager d\u00e2\u0080\u0099un pays \u00c3\u00a0 l\u00e2\u0080\u0099autre en Europe c\u00e2\u0080\u0099est pas difficile alors le tour peut se faire facilement!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581039638402,
+      "content": "Ouais keen dans le fond j\u00e2\u0080\u0099\u00c3\u00a9tais pas trop chaude \u00c3\u00a0 l\u00e2\u0080\u0099id\u00c3\u00a9e"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581037471799,
+      "content": "J'aime l'histoire des guerres donc Allemagne pour s\u00c3\u00bbr"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581037450681,
+      "content": "Tout ce qui est europe je n'ai pas fait!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581037440539,
+      "content": "Bonne question"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581037435707,
+      "content": "Keen?"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581004368939,
+      "content": "Sinon seule je pense j\u00e2\u0080\u0099irais en Hawa\u00c3\u00af probablement :) toi? Des id\u00c3\u00a9es de voyage prochainement?"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1581004340757,
+      "content": "J\u00e2\u0080\u0099en discutais avec des amies et je voulais aller au vietnam ou aux philippines, l\u00e2\u0080\u0099Indon\u00c3\u00a9sie a aussi \u00c3\u00a9t\u00c3\u00a9 sugg\u00c3\u00a9r\u00c3\u00a9. Y\u00e2\u0080\u0099avait le Myanmar mais j\u00e2\u0080\u0099\u00c3\u00a9tais pas trop keen avec l\u00e2\u0080\u0099id\u00c3\u00a9e"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580994074857,
+      "content": "Ta prochaine destination autre que familiale serait quoi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580993339579,
+      "content": "Ouais c'est claire! Tu ne les vois pas souvent donc si y'a une occasion c'est tentant de la saisir!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580987578450,
+      "content": "Le dilemme est tjrs si je veux voir un nouveau pays ou retourner voir ma famille \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580987559774,
+      "content": "J\u00e2\u0080\u0099ai beaucoup voyag\u00c3\u00a9, on allait souvent en Angleterre et en \u00c3\u0089gypte. Jais fait quelques autre pays aussi!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580987458119,
+      "content": "Oh wow! Chanceux :) je suis presque all\u00c3\u00a9e au Chili l\u00e2\u0080\u0099ann\u00c3\u00a9e derni\u00c3\u00a8re mais finalement on a opt\u00c3\u00a9 pour le Costa Rica"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580957923386,
+      "content": "Toi?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580957920536,
+      "content": "Plus r\u00c3\u00a9cemment, on est all\u00c3\u00a9 au Chili \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580957901477,
+      "content": "Oui quand m\u00c3\u00aame! J'ai eu la chance de me faire amener par mes parents dans plusieurs pays lorsque j'\u00c3\u00a9tais jeune!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580946947039,
+      "content": "As tu bcp voyag\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580946938149,
+      "content": "Ouais \u00c3\u00a7a vaut vrmt la peine!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580944151549,
+      "content": "Non jamais! Un jour certainement!"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580927182606,
+      "content": "Es tu d\u00c3\u00a9j\u00c3\u00a0 all\u00c3\u00a9 en Angleterre?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580922979876,
+      "content": "Je suis jaaloux :p"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580922714904,
+      "content": "C\u00e2\u0080\u0099est infiniment mieux que de la neige \u00c3\u00a7a \u00f0\u009f\u00a5\u00b6"
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580922676559,
+      "photos": [
+        {
+          "uri": "messages/inbox/miriambass_473553100712999/photos/82753033_604248563474412_8561069914112052235_n_707956176482355.jpg",
+          "creation_timestamp": 1604032177
+        }
+      ]
+    },
+    {
+      "sender_name": "Miriam Bass",
+      "timestamp_ms": 1580922657463,
+      "content": "Salut! \u00e2\u0098\u00ba\u00ef\u00b8\u008f c\u00e2\u0080\u0099est tellement beau le paysage ici, on est all\u00c3\u00a9s en bateau proche d\u00e2\u0080\u0099une \u00c3\u00aele sur la c\u00c3\u00b4te"
+    }
+  ],
+  "title": "Miriam Bass",
+  "is_still_participant": true,
+  "thread_path": "inbox/miriambass_473553100712999",
+  "magic_words": [
+    
+  ]
+}

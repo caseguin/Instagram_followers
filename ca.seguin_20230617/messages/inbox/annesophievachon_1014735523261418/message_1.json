@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Anne-Sophie Vachon"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne-Sophie Vachon",
+      "timestamp_ms": 1666218194994,
+      "content": "Reacted \u00f0\u009f\u0092\u0083 to your message "
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1666217459778,
+      "content": "Clairement \u00c3\u00a7a haha",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u0083",
+          "actor": "Anne-Sophie Vachon"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anne-Sophie Vachon",
+      "timestamp_ms": 1666200292868,
+      "content": "Ahh, oui j'ai jou\u00c3\u00a9 avec Ari! On s'est p-e crois\u00c3\u00a9s \u00c3\u00a0 l'un des innombrables partys haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1666195392499,
+      "content": "Je n'\u00c3\u00a9tais pas \u00c3\u00a0 Sherbrooke, mais j'\u00c3\u00a9tais pas mal amie avec ariane fournier et myriam gagnon beaudoin donc jy suis all\u00c3\u00a9 quelques fois dans ces ann\u00c3\u00a9es la :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1666195287805,
+      "content": "Emm as tu jou\u00c3\u00a9 au volley avec les volontaires?"
+    },
+    {
+      "sender_name": "Anne-Sophie Vachon",
+      "timestamp_ms": 1666186984542,
+      "content": "Hey :) C'est niaiseux, mais depuis que j'ai vu passer ton profil je n'arrive pas \u00c3\u00a0 me rappeler si on s'est d\u00c3\u00a9j\u00c3\u00a0 rencontr\u00c3\u00a9s.\u00f0\u009f\u0098\u0085 J'ai l'impression qu'on se conna\u00c3\u00aet pi en m\u00c3\u00aame temps non. Avec nos amis volleyeurs communs \u00c3\u00a7a me dit que ce serait p-e \u00c3\u00a0 l'\u00c3\u00a9poque du Cegep. Ta m\u00c3\u00a9moire est mieux que la mienne ou on est deux dans le m\u00c3\u00aame brouillard?",
+      "share": {
+        "share_text": "Hey :) C'est niaiseux, mais depuis que j'ai vu passer ton profil je n'arrive pas \u00c3\u00a0 me rappeler si on s'est d\u00c3\u00a9j\u00c3\u00a0 rencontr\u00c3\u00a9s.\u00f0\u009f\u0098\u0085 J'ai l'impression qu'on se conna\u00c3\u00aet pi en m\u00c3\u00aame temps non. Avec nos amis volleyeurs communs \u00c3\u00a7a me dit que ce serait p-e \u00c3\u00a0 l'\u00c3\u00a9poque du Cegep. Ta m\u00c3\u00a9moire est mieux que la mienne ou on est deux dans le m\u00c3\u00aame brouillard?"
+      }
+    }
+  ],
+  "title": "Anne-Sophie Vachon",
+  "is_still_participant": true,
+  "thread_path": "inbox/annesophievachon_1014735523261418",
+  "magic_words": [
+    
+  ]
+}

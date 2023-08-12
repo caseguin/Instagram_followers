@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "F\u00c3\u00a9lix Robert-Lacroix"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1552237100559,
+      "content": "Commence pas"
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix Robert-Lacroix",
+      "timestamp_ms": 1552231990922,
+      "content": "Un peu ou\u00c3\u00a9!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1552231976661,
+      "content": "Ou\u00c3\u00a9 ou\u00c3\u00a9"
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix Robert-Lacroix",
+      "timestamp_ms": 1552231948264,
+      "content": "My bad j\u00e2\u0080\u0099ai cliqu\u00c3\u00a9 sans faire expr\u00c3\u00a8s! Nice chalet quand m\u00c3\u00aame tho haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1552193863344,
+      "content": "\u00c3\u0087a niaise pas"
+    },
+    {
+      "sender_name": "F\u00c3\u00a9lix Robert-Lacroix",
+      "timestamp_ms": 1552191356047,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1995873188588231335"
+      }
+    }
+  ],
+  "title": "F\u00c3\u00a9lix Robert-Lacroix",
+  "is_still_participant": true,
+  "thread_path": "inbox/felixrobertlacroix_558847015510405",
+  "magic_words": [
+    
+  ]
+}

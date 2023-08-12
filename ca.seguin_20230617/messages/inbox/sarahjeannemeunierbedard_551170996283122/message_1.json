@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Sarah-Jeanne Meunier-B\u00c3\u00a9dard"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542930090922,
+      "content": "Holly molly \u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "Sarah-Jeanne Meunier-B\u00c3\u00a9dard",
+      "timestamp_ms": 1542928783559,
+      "content": "Tu devrais mettre une scoop de pre work out de dans pour \u00c3\u00aatre certain",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1918533285526743873"
+      }
+    },
+    {
+      "sender_name": "Sarah-Jeanne Meunier-B\u00c3\u00a9dard",
+      "timestamp_ms": 1505997593842,
+      "content": "Je savais que tu allais aimer ahaha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1505976297553,
+      "content": "Best machine ever"
+    },
+    {
+      "sender_name": "Sarah-Jeanne Meunier-B\u00c3\u00a9dard",
+      "timestamp_ms": 1505957928432
+    }
+  ],
+  "title": "Sarah-Jeanne Meunier-B\u00c3\u00a9dard",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahjeannemeunierbedard_551170996283122",
+  "magic_words": [
+    
+  ]
+}

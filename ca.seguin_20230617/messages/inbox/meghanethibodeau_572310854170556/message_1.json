@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Meghane Thibodeau"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1570675658838,
+      "content": "Haha bon point"
+    },
+    {
+      "sender_name": "Meghane Thibodeau",
+      "timestamp_ms": 1570674986695,
+      "content": "exact du bon gin ben meilleur \u00f0\u009f\u00a4\u00a4"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1570674924677,
+      "content": "Pas la quantit\u00c3\u00a9, mais la qualit\u00c3\u00a9 qui est importante :p"
+    },
+    {
+      "sender_name": "Meghane Thibodeau",
+      "timestamp_ms": 1570673741173,
+      "content": "non je tinque en maudit c\u00e2\u0080\u0099est juste que je bois du fort hahahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1570672109324,
+      "content": "Ptite nature \u00f0\u009f\u0098\u0091"
+    },
+    {
+      "sender_name": "Meghane Thibodeau",
+      "timestamp_ms": 1570671888933,
+      "content": "pis moi je bois pas de viere fack"
+    },
+    {
+      "sender_name": "Meghane Thibodeau",
+      "timestamp_ms": 1570671863605,
+      "content": "sont trop toutes degeu \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1570671527482,
+      "content": "Pas assez bu faut croire \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Meghane Thibodeau",
+      "timestamp_ms": 1570671343213,
+      "content": "haha avoue on est poche"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1570670832040,
+      "content": "Nice jeu haha"
+    }
+  ],
+  "title": "Meghane Thibodeau",
+  "is_still_participant": true,
+  "thread_path": "inbox/meghanethibodeau_572310854170556",
+  "magic_words": [
+    
+  ]
+}

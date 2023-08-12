@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Roxanne"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roxanne",
+      "timestamp_ms": 1558836654202,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1558836158225,
+      "content": "Haha avoues \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Roxanne"
+        }
+      ]
+    },
+    {
+      "sender_name": "Roxanne",
+      "timestamp_ms": 1558814875200,
+      "content": "HAHAHAHAHAH CUTE",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2051731566296017439"
+      }
+    }
+  ],
+  "title": "Roxanne",
+  "is_still_participant": true,
+  "thread_path": "inbox/roxanne_544169876982460",
+  "magic_words": [
+    
+  ]
+}

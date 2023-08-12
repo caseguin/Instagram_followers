@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Annicka Caissie"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1648783023097,
+      "content": "Et prendre des petites selfies :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1648782937351,
+      "content": "Toi aussi de ce que je vois!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1648782917028,
+      "content": "Oui, j'aime bien \u00c3\u00aatre \u00c3\u00a0 l'ext\u00c3\u00a9rieur \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Annicka Caissie",
+      "timestamp_ms": 1648782591087,
+      "content": "Tes du type tres aventurier \u00f0\u009f\u0091\u0080"
+    },
+    {
+      "sender_name": "Annicka Caissie",
+      "timestamp_ms": 1648782576727,
+      "content": "Mais la je regardais ton profil"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1648782395239,
+      "content": "Ahah c'est un bon deal alors :p"
+    },
+    {
+      "sender_name": "Annicka Caissie",
+      "timestamp_ms": 1648782182370,
+      "content": "Et j\u00e2\u0080\u0099ai l\u00e2\u0080\u0099habitude de fermer mon profil sur un coup de tete \u00f0\u009f\u00a5\u00b4"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1648782150727,
+      "content": "J'ai l'habitude de ne pas \u00c3\u00aatre tr\u00c3\u00a8s assidu sur tinder \u00f0\u009f\u0098\u0085"
+    }
+  ],
+  "title": "Annicka Caissie",
+  "is_still_participant": true,
+  "thread_path": "inbox/annickacaissie_858832028851769",
+  "magic_words": [
+    
+  ]
+}

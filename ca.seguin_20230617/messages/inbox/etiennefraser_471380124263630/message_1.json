@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Etienne Fraser"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1663390516872,
+      "content": "Fait plaisir \u00f0\u009f\u00a4\u0099"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1663387868229,
+      "content": "Oh shit nice! Thanx de l'info! C'est s\u00c3\u00bbr qu'on va checker \u00c3\u00a7a!"
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1663368731349,
+      "content": "Jai pas mes photos avec moi mais ca donne une id\u00c3\u00a9e si ca te dis"
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1663368695128,
+      "content": "https://pin.it/2d11osX",
+      "share": {
+        "link": "https://pin.it/2d11osX",
+        "share_text": "https://pin.it/2d11osX"
+      }
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1663368232686,
+      "content": "Une piscine naturelle rempli de poissons sur le bord de la mer et l\u00e2\u0080\u0099autre c\u00c3\u00b4t\u00c3\u00a9 tu as la vue sur les montagnes \u00e2\u009b\u00b0"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1663367714458,
+      "content": "Oh yess c'est fou! Ah oui? C'est quoi exactement?"
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1663360996250,
+      "content": "Hey men vraiment nice voyage si tu es a kauai il y a une place vraiment folle pas trop loin cest le queen\u00e2\u0080\u0099s bath a princeville \u00f0\u009f\u00a4\u0099\u00f0\u009f\u0098\u0089",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2928776837096153591"
+      }
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1613944820567,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2513565491088795980"
+      }
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1609026874887,
+      "content": "Hahaha ouais \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1609020489176,
+      "content": "Pas trop agile la grosse \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Etienne Fraser",
+      "timestamp_ms": 1609005122904,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2472141978989768897"
+      }
+    }
+  ],
+  "title": "Etienne Fraser",
+  "is_still_participant": true,
+  "thread_path": "inbox/etiennefraser_471380124263630",
+  "magic_words": [
+    
+  ]
+}

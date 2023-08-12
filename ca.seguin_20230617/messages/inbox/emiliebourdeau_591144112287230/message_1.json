@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Emilie Bourdeau"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emilie Bourdeau",
+      "timestamp_ms": 1546736998811,
+      "content": "Oh :/ c\u00e2\u0080\u0099est plate \u00c3\u00a7a si tu as \u00c3\u00a9t\u00c3\u00a9 malade"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1546548111916,
+      "content": "Ouinn je suis tomb\u00c3\u00a9 pas mal malade durant le temps des fetes.. on est pas d\u00c3\u00bb il faut croire :/"
+    },
+    {
+      "sender_name": "Emilie Bourdeau",
+      "timestamp_ms": 1546482747877,
+      "content": "Alors invite moi \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bd\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1546478815696,
+      "content": "J'ai jamais eu la mienne :/"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542564382608,
+      "content": ":) *"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542564373990,
+      "content": "Machinee :("
+    },
+    {
+      "sender_name": "Emilie Bourdeau",
+      "timestamp_ms": 1542490158833,
+      "content": "Oui quand m\u00c3\u00aame je crois j\u00e2\u0080\u0099attend pas note maintenant :)"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542386349732,
+      "content": "\u00c3\u0087a bien \u00c3\u00a9t\u00c3\u00a9 ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542386336001,
+      "content": "Oups my bad j'ai confondu avec une personne qui m'a envoy\u00c3\u00a9 sa voiture avec pneu d'\u00c3\u00a9t\u00c3\u00a9 \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542386299557,
+      "content": "Que tu n'as clairement pas \u00c3\u00a9t\u00c3\u00a9!"
+    },
+    {
+      "sender_name": "Emilie Bourdeau",
+      "timestamp_ms": 1542384850078,
+      "content": "J\u00e2\u0080\u0099avais un examen ce matin ahah"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1542329418958,
+      "content": "\u00c3\u0087a arrive tu que tu \u00c3\u00a9tudies pas? :p"
+    }
+  ],
+  "title": "Emilie Bourdeau",
+  "is_still_participant": true,
+  "thread_path": "inbox/emiliebourdeau_591144112287230",
+  "magic_words": [
+    
+  ]
+}

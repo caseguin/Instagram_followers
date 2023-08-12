@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Fab Grlx-Swen"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1534997201251,
+      "content": "Taths my boyyy"
+    },
+    {
+      "sender_name": "Fab Grlx-Swen",
+      "timestamp_ms": 1534990125977,
+      "content": "Oh my god haha",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1851812459514853465"
+      }
+    }
+  ],
+  "title": "Fab Grlx-Swen",
+  "is_still_participant": true,
+  "thread_path": "inbox/fabgrlxswen_609121727155573",
+  "magic_words": [
+    
+  ]
+}

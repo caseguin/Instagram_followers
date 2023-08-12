@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Jeanne Laporte"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeanne Laporte",
+      "timestamp_ms": 1581270388068,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Jeanne Laporte",
+      "timestamp_ms": 1581270385346,
+      "content": "Nous avec"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1581262299792,
+      "content": "J'ai ris",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jeanne Laporte"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574240425854,
+      "content": "\u00f0\u009f\u0098\u008d"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1548119661097,
+      "content": "Aweille en gr\u00c3\u00a8ve"
+    },
+    {
+      "sender_name": "Jeanne Laporte",
+      "timestamp_ms": 1548119338280,
+      "content": "Toutes des esti de gratteux de guitare"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1548118737399,
+      "content": "Gang de socialistes"
+    }
+  ],
+  "title": "Jeanne Laporte",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeannelaporte_599568311444810",
+  "magic_words": [
+    
+  ]
+}

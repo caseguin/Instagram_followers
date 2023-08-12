@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "MIRUNA"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MIRUNA",
+      "timestamp_ms": 1540665912515,
+      "content": "Ahhh :/"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1540645160011,
+      "content": "Fracture d'\u00c3\u00a9tude"
+    },
+    {
+      "sender_name": "MIRUNA",
+      "timestamp_ms": 1540609221420,
+      "content": "Woot?! \u00f0\u009f\u0098\u00b2",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/1899041089768195275"
+      }
+    }
+  ],
+  "title": "MIRUNA",
+  "is_still_participant": true,
+  "thread_path": "inbox/miruna_578062323595409",
+  "magic_words": [
+    
+  ]
+}

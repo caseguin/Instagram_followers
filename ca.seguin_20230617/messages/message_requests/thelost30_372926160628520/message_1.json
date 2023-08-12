@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "thelost3.0"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "thelost3.0",
+      "timestamp_ms": 1619844249386,
+      "content": "Ch\u00c3\u00a2les maudit"
+    },
+    {
+      "sender_name": "thelost3.0",
+      "timestamp_ms": 1619383422920,
+      "content": "Hey, ta friend s\u00e2\u0080\u0099ennuie"
+    }
+  ],
+  "title": "thelost3.0",
+  "is_still_participant": true,
+  "thread_path": "message_requests/thelost30_372926160628520",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

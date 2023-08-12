@@ -1,0 +1,883 @@
+{
+  "participants": [
+    {
+      "name": "Ame\u00cc\u0081lie"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674263480520,
+      "content": "Yessss"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674259148753,
+      "content": "Touring?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674259136788,
+      "content": "J\u00e2\u0080\u0099ai h\u00c3\u00a2te omg"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674259131410,
+      "content": "Jvais au MSA dimanche \u00f0\u009f\u00a5\u00b9\u00f0\u009f\u00a4\u00a9"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674257399239,
+      "content": "Bon point \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674177411660,
+      "content": "\u00c3\u0087a change tout, pour les ptites ampoules surtout \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674174258458,
+      "content": "Vraii en plus les bottes y'a le mode mont\u00c3\u00a9 qui doit aider pas mal"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674163932816,
+      "content": "Ouain c\u00e2\u0080\u0099est boff c\u00e2\u0080\u0099est plus lourd ! Anyways mes bottes sont super dues jpense que jme ferais mal si je les utilisais en rando"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674163412457,
+      "content": "Y'a un type de fix que t'as pas besoin! Jsais pas si c'est moins bon"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674163111098,
+      "content": "Caline non, et il faut que je change mes bottes en plus \u00f0\u009f\u0098\u0092"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674162548166,
+      "content": "Jcomprends, c'est pas donn\u00c3\u00a9 l'\u00c3\u00a9quipement non plus"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674162426352,
+      "content": "Ouiii jvoulais pas acheter avant d\u00e2\u0080\u0099avoir essay\u00c3\u00a9 quelques fois ! Mes skis sont quaisi neufs !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674162385015,
+      "content": "Ohh tu loues?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674161849890,
+      "content": "Ouiiii jsuis suppos\u00c3\u00a9e si y\u00e2\u0080\u0099a des kits de dispo \u00f0\u009f\u0098\u0087"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674160636242,
+      "content": "Glisses tu en fds aussi?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674160456085,
+      "content": "Have fun \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Charles-Antoine S\u00c3\u00a9guin"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674160150472,
+      "content": "Oh yess merci de l'info \u00f0\u009f\u0099\u0082"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674159833308,
+      "photos": [
+        {
+          "uri": "messages/inbox/amelie_556239235777718/photos/326451654_1223156931918614_2091478441428490302_n_1223156925251948.jpg",
+          "creation_timestamp": 1674159831
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674158149369,
+      "content": "Ouii \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674158128466,
+      "content": "bon, c\u00e2\u0080\u0099est correct ! Au moins c\u00e2\u0080\u0099est un gros terrain de jeu alors y\u00e2\u0080\u0099a de quoi se bruler amplement hihi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674157805516,
+      "content": "2km pour 125m de d\u00c3\u00a9nivel\u00c3\u00a9"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674157176548,
+      "content": "Jai juste peur pour la mont\u00c3\u00a9e pour se rendre au piste\u00e2\u0080\u00a6. genre que \u00c3\u00a7a soit plat pis pas long \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674157111577,
+      "content": "Ouaiss et t'as le choix de 5 pistes"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674156995519,
+      "content": "ca a l\u00e2\u0080\u0099air vraiment cool comme spot"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674156986012,
+      "content": "Je connais quelqu\u00e2\u0080\u0099un qui est l\u00c3\u00a0 live je vais lui demander les conditions"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674156885097,
+      "content": "Jpense que je sais je vais ou en fds \u00f0\u009f\u0098\u008c"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1674156862179,
+      "content": "\u00f0\u009f\u00a4\u00a9"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1674155904318,
+      "content": "Ame\u00cc\u0081lie shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/parc.des.appalaches/2258224808407744513",
+        "original_content_owner": "parc.des.appalaches"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673898081007,
+      "content": "Ouiii"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673788281633,
+      "content": "https://plus.lapresse.ca/screens/4d258928-70d6-4d39-bdb6-8d8af433c39a__7C___0.html?utm_content=ulink&utm_source=lpp&utm_medium=referral&utm_campaign=internal+share",
+      "share": {
+        "link": "https://plus.lapresse.ca/screens/4d258928-70d6-4d39-bdb6-8d8af433c39a__7C___0.html?utm_content=ulink&utm_source=lpp&utm_medium=referral&utm_campaign=internal+share",
+        "share_text": "https://plus.lapresse.ca/screens/4d258928-70d6-4d39-bdb6-8d8af433c39a__7C___0.html?utm_content=ulink&utm_source=lpp&utm_medium=referral&utm_campaign=internal+share"
+      }
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673788278705,
+      "content": "j\u00e2\u0080\u0099ai vu ce spot dans cet article, peut-\u00c3\u00aatre que c\u00e2\u0080\u0099est plus ce que tu cherches"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673788261353,
+      "content": "Ahhh je comprend ce que tu veux dire !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673760861176,
+      "content": "Ou peut-\u00c3\u00aatre jai pas trouv\u00c3\u00a9 le bon spot"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673760851702,
+      "content": "Mais ca perdait un peu de charme de faire ce que les gens de stations peuvent faire aussi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673760825950,
+      "content": "Sous bois cool"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673760818318,
+      "content": "Mont\u00c3\u00a9 vrm belle"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673760811844,
+      "content": "Ouais pas pire"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673741850670,
+      "content": "t\u00e2\u0080\u0099as tu aim\u00c3\u00a9?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673740188620,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673739767948,
+      "content": "Ouais j'ai fais une foiss",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ame\u00cc\u0081lie"
+        }
+      ]
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673739500483,
+      "content": "c\u00e2\u0080\u0099est pas la plus haute montagne but still, c\u00e2\u0080\u0099est pas cher pis le ski est beau donc ca compense largement. C\u00e2\u0080\u0099est hauteur stoneham je dirais !"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673739424894,
+      "content": "Ouais tu t\u00e2\u0080\u0099eloignes un peu d\u00e2\u0080\u0099apr\u00c3\u00a8s moi les trails de rando se rendent l\u00c3\u00a0 !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673739371690,
+      "content": "Sur la station"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673739325462,
+      "content": "best place a sous-bois et hors piste tu vas capoter"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673739318107,
+      "content": "Massif du sud"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673736815453,
+      "content": "Jveux des sous bois"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673736803097,
+      "content": "A est vrm cooll"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673736799198,
+      "content": "Split!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673735308073,
+      "content": "Jvais retourner le w-e prochain faire la piste A au MSA j\u00e2\u0080\u0099pense bien ! J\u00e2\u0080\u0099ai vrmnt tripp\u00c3\u00a9 ! t\u00e2\u0080\u0099es tu en ski ou en split toi?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673735274681,
+      "content": "Ahhh trop parfait \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bc"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673734934935,
+      "content": "Avant l'ouverture \u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673733997430,
+      "content": "Ahhhh ouain j\u00e2\u0080\u0099avoue que t\u00e2\u0080\u0099as pas l\u00e2\u0080\u0099ambiance le fun de la for\u00c3\u00aat pis tu dois croiser pleins de skieurs??"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673733072314,
+      "content": "Pas tant l'fun haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673733065506,
+      "content": "Nous autre on a mont\u00c3\u00a9 dans piste ce matin \u00c3\u00a0 sto"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673733045901,
+      "content": "Hahah"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673730049441,
+      "content": "J\u00e2\u0080\u0099me suis ramass\u00c3\u00a9e par terre quelque fois, j\u00e2\u0080\u0099ai failli laisser toute ma motivation dans la piste !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729937566,
+      "content": "Moi javais fais A"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729933003,
+      "content": "La B haha \u00c3\u00a0 l'air intense!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673729859378,
+      "content": "Vraiment ! On a commenc\u00c3\u00a9 par la B comme des gros loosers sans s\u00e2\u0080\u0099en rendre trop compte \u00f0\u009f\u0098\u0085 On a du redescendre pour faire la C"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729239540,
+      "content": "La mont\u00c3\u00a9e est quand m\u00c3\u00aame nice en plus"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729229498,
+      "content": "Ouaiss haha"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673729194494,
+      "content": "Vive le touring au MSA"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673729183054,
+      "content": "Ouain y\u00e2\u0080\u0099a eu une panne\u00e2\u0080\u00a6. tellement un echec cette montagne",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Charles-Antoine S\u00c3\u00a9guin"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729162571,
+      "content": "Mais y'ont referm\u00c3\u00a9 des remontes pentes me suis fais dire?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673729139973,
+      "content": "Okayy nicee tant que c'est pas des pistes travaill\u00c3\u00a9e haha"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673729097721,
+      "content": "Pis j\u00e2\u0080\u0099ai descendu une autre piste dont joublie le nom qui \u00c3\u00a9tait quand m\u00c3\u00aame pas pire mais y\u00e2\u0080\u0099avait quelques butes d\u00e2\u0080\u0099accumulation !"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673729072947,
+      "content": "Ouain ca c\u00e2\u0080\u0099est une autre affaire \u00e2\u0080\u00a6. on savait pas trop par o\u00c3\u00b9 passer au top pis on a descendu la cr\u00c3\u00aate mais elle \u00c3\u00a9tait pas travaill\u00c3\u00a9e du tout, j\u00e2\u0080\u0099pense m\u00c3\u00aame pas qu\u00e2\u0080\u0099elle \u00c3\u00a9tait ouverte \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673728978302,
+      "content": "Oh nicee vous avez descendu quoi?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673728873566,
+      "content": "Vraiiiiiment parfait s\u00c3\u00a9rieux"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673711690028,
+      "content": "Tu me diras c'\u00c3\u00a9tait comment! Apr\u00c3\u00a8s l'ouverture"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673046646474,
+      "content": "Ouin haha \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673045866036,
+      "content": "et du froid \u00f0\u009f\u00a5\u00b6\u00f0\u009f\u00a4\u009e\u00f0\u009f\u008f\u00bc"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673045853277,
+      "content": "On a bien bien h\u00c3\u00a2te"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673044303418,
+      "content": "Ouinnnn il manque une vrai temp\u00c3\u00aate"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673044138271,
+      "content": "pis massif du sud y\u00e2\u0080\u0099a une seule track"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673044130074,
+      "content": "Jai cheker pour le massif de charlevoix pis ils m\u00e2\u0080\u0099ont dit que c\u00e2\u0080\u0099\u00c3\u00a9tait pas ouvert en th\u00c3\u00a9orie \u00f0\u009f\u0092\u0094"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673044082731,
+      "content": "Ouais jai vu plein de monde y aller ca a l\u00e2\u0080\u0099air beau quand partout ailleues c\u00e2\u0080\u0099est deg !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673044003872,
+      "content": "Il va avoir msa cette ann\u00c3\u00a9e aussi"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043990637,
+      "content": "C'est des graffignes assur\u00c3\u00a9es!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673043651838,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673043643166,
+      "content": "Pas si mal !!!! Mais je stresserais pour la descente mettons \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673043627293,
+      "photos": [
+        {
+          "uri": "messages/inbox/amelie_556239235777718/photos/323198570_727682801871180_1358936665417098332_n_727682795204514.jpg",
+          "creation_timestamp": 1673043625
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043480624,
+      "content": "Y'avait tu l'air avoir un ptit fond de fait au moins? \u00f0\u009f\u00a5\u00b2"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043452583,
+      "content": "C'est \u00c3\u00a0 gauche de la cabane principale",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ame\u00cc\u0081lie"
+        }
+      ]
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043433231,
+      "content": "Je suis fais dire qu'il a 3 spots dans le parc, j'en ai juste test\u00c3\u00a9 un jusqu'\u00c3\u00a0 maintenant"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673043367005,
+      "content": "Y\u00e2\u0080\u0099a tu un spot en particulier dans le parc ou tu peux aller n\u00e2\u0080\u0099importe o\u00c3\u00b9? Et non jsuis all\u00c3\u00a9e tant\u00c3\u00b4t et y\u00e2\u0080\u0099a pas assez de neige pour \u00c3\u00a7a c\u00e2\u0080\u0099est sur"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043269018,
+      "content": "Pas s\u00c3\u00bbr c'est beau en se moment haha"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043253599,
+      "content": "Mais dans mes pref y'avait \u00c3\u00a0 vall\u00c3\u00a9e de la Jacques cartier"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043235761,
+      "content": "Emmm souviens plus"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1673043226516,
+      "content": "Heyy"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1673037867584,
+      "content": "Coucou, c\u00e2\u0080\u0099est quoi le bon spot de touring que tu m\u00e2\u0080\u0099avais parl\u00c3\u00a9??"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659833594616,
+      "content": "\u00f0\u009f\u00a4\u0098\u00f0\u009f\u008f\u00bc"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659832904234,
+      "content": "Hihi"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659829957569,
+      "content": "Faudrait qutu maides"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659829951750
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659829851748,
+      "content": "\u00f0\u009f\u00a4\u00aa"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659829552108,
+      "content": "On va savancer"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659829537092,
+      "content": "Ohhhhv"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659828760284,
+      "content": "Vrm pas vip"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659827418326,
+      "content": "Bon bon bon mr. vip !!! Y\u00e2\u0080\u0099a tu de la place??"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659827402447,
+      "content": "Coin vip qui a personne"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659827390829,
+      "content": "Devant la sc\u00c3\u00a8ne haha"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659827345438,
+      "content": "Jsuis proche du lifeguard avec une copine !! T\u00e2\u0080\u0099es a quel spot??"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1659827031957,
+      "content": "Viens dire allo"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1659826815888,
+      "content": "Tu me suis? \u00f0\u009f\u0098\u0082 je blague !",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2899148606837892494"
+      }
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1654343002817,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1654321880651,
+      "content": "Essaies",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ame\u00cc\u0081lie"
+        }
+      ]
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1654305211112,
+      "content": "mais tough !"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1654305203056,
+      "content": "J\u00e2\u0080\u0099comprend dont ! Ca a tellement l\u00e2\u0080\u0099air le fun \u00f0\u009f\u00a4\u00a9"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1654304985876,
+      "content": "Haha thanxxx j'aime vrm \u00c3\u00a7a la bouette \u00f0\u009f\u0098\u00b3"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1654302273671,
+      "content": "\u00c3\u0087a te va bien la bouette !! \u00f0\u009f\u0098\u008c"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1654302273253,
+      "share": {
+        "link": "https://www.instagram.com/p/CeXOwBfrw41RzPW0Zag6RQ7PH8oGoMcKndQtdI0/",
+        "share_text": "\u00f0\u009f\u009a\u00b5\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+        "original_content_owner": "ca.seguin"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1593384564806,
+      "content": "\u00f0\u009f\u0098\u00ac"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1593371200726,
+      "content": "Malade !!!!! Enjoy \u00f0\u009f\u0091\u008c",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2341632894038348888"
+      }
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580614345319,
+      "content": "Ohh d'accord \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580611484618,
+      "content": "Exactement ! Y'a quelques cours de logistique pis c'est vraiment eux mes prefs ! Mon petit esprit \u00c3\u00a9conomique qui ressort"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580611175951,
+      "content": "Moins techniques plus gestion ?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580610937896,
+      "content": "Hum c'est mettons gestion de projet, operations management,  habilet\u00c3\u00a9s de gestion etc. J'aime quand m\u00c3\u00aame \u00c3\u00a7a s\u00c3\u00a9rieux !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580607210850,
+      "content": "Puis? C'est quoi les cours du mba? \u00f0\u009f\u0099\u0084"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580607186626,
+      "content": "Bonn parfait :)"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580606154077,
+      "content": "Ben c'est pour \u00c3\u00a7a que j'ai chang\u00c3\u00a9 moi !!! \u00f0\u009f\u0098\u008a mais l\u00c3\u00a0 jpense que oui je le suis"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580606015609,
+      "content": ":o"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580606011851,
+      "content": "Tu n'es pas a l\u00c3\u00a0  bonne place? :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580605508740,
+      "content": "preuve que t'es \u00c3\u00a0 la bonne place toi ! \u00f0\u009f\u0092\u0081"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580603606419,
+      "content": "Heinnn ben non :o c'est \u00c3\u00a7a le plaisir :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580600350551,
+      "content": "Moi \u00c3\u00a7a va, j'ai switch\u00c3\u00a9 au mba finalement ! J'avais pas mal atteint ma limite en terme de math/prog pis je commen\u00c3\u00a7ais \u00c3\u00a0 \u00c3\u00aatre tann\u00c3\u00a9e en maudine de l'aspect trop th\u00c3\u00a9orique des cours !"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580600287705,
+      "content": "Oh non pauvre toi ! pas mal certaine que t'as pas eu trop de mal \u00c3\u00a0 prendre ton retard ! \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580600101685,
+      "content": "Toi, grosse session?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580600094177,
+      "content": "Tu disss j'ai manqu\u00c3\u00a9 mon premier cours d'economietrie par leur faute :/"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580598831273,
+      "content": "Ohhh cool tant mieux ! ouin des fois les administrations universitaires c'est pas rapide et efficace \u00f0\u009f\u0098\u0093"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1580595197544,
+      "content": "Oui! Apr\u00c3\u00a8s un long processus j'ai r\u00c3\u00a9ussi \u00c3\u00a0 prendre des cours :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1580588965775,
+      "content": "Hey ! Je croyais te recroiser au bureau mais je voulais te demander si tu finissais ta ma\u00c3\u00aetrise \u00c3\u00a0 ulaval finalement?"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646779788,
+      "content": "\u00c3\u0087a fait plaisir ! Certainement \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646762504,
+      "content": "Bref! Merci pour tes informations! On se rejase ou se recroise en hiver!"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646736331,
+      "content": "Oui!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646672063,
+      "content": "ohh super !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646657980,
+      "content": "Oui! Ben en fait, c'est pour \u00c3\u00a7a que je reviens! :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646584886,
+      "content": "toi comptes tu rester au MFQ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646558730,
+      "content": "Puis?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646556680,
+      "content": "Okay :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646540608,
+      "content": "1 an et demi ! mais je suis \u00c3\u00a0 ma premi\u00c3\u00a8re session de maitrise en ce moment m\u00c3\u00aame"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646519352,
+      "content": "Correct, y'a pas de stress :p"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646507742,
+      "content": "Ah oui, c'est 2 ans votre ma\u00c3\u00aetrise vous!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646446981,
+      "content": "Je pense que oui, mais il me reste encore un an donc \u00c3\u00a7a peut changer d'ici l\u00c3\u00a0. Mais je compte rester l\u00c3\u00a0 jusqu'\u00c3\u00a0 la fin de mes \u00c3\u00a9tudes pour le moment."
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646400692,
+      "content": "C'est clair mais \u00c3\u00a7a vaut tellement la peine !"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646378425,
+      "content": "Tu comptes continuer au minist\u00c3\u00a8re apr\u00c3\u00a8s ?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574646363576,
+      "content": "Pas besoin, c'est correct! Je me pr\u00c3\u00a9pare d\u00c3\u00a9j\u00c3\u00a0 mentalement \u00c3\u00a0 une session de souffrance :p"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574646158457,
+      "content": "macro\u00c3\u00a9conom\u00c3\u00a9trie c'est un nouveau prof donc, j'ai aucune id\u00c3\u00a9e ! Micro\u00c3\u00a9conom\u00c3\u00a9trie j'ai d\u00c3\u00a9j\u00c3\u00a0 eu le prof qui le donne au BAC pis c'est quand m\u00c3\u00aame un bon prof j'pense que c'est un tr\u00c3\u00a8s bon cours m\u00c3\u00aame si c'est un gros morceaux ! jpeux demander \u00c3\u00a0 des gens qui l'ont fait voir leurs avis si tu veux."
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574645979095,
+      "content": "As tu entendu des commentaires par rapport aux cours d'\u00c3\u00a9conom\u00c3\u00a9trie avanc\u00c3\u00a9? \u00f0\u009f\u0099\u0084 micro\u00c3\u00a9conom\u00c3\u00a9trie et macro\u00c3\u00a9conom\u00c3\u00a9trie je crois! Plus mon style haha"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574645864841,
+      "content": "\u00c3\u0087a fait plaisir ! Si t'as d'autres questions h\u00c3\u00a9sites-pas"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574645765158,
+      "content": "Okay! Int\u00c3\u00a9ressant! Merci de l'info! :)"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574644453331,
+      "content": "Hum oui mais \u00c3\u00a7a d\u00c3\u00a9pend t'es plus dans quelle branche mettons ! Moi je fais la concentration analyse des politiques publiques donc je vais avoir le cours \u00c3\u0089valuation des politiques publiques (un cours essentiel pour un \u00c3\u00a9conomiste disons ! qui me semble assez faisable et int\u00c3\u00a9ressant) et pauvret\u00c3\u00a9 et d\u00c3\u00a9veloppement \u00c3\u00a9conomique ! (j'ai pas eu beaucoup de commentaires dessus mais il semble assez facile )"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574644350075,
+      "content": "Ohhh c'est nice pareil ! \u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574644298417,
+      "content": "Hey, prends tu des cours cet hiver? J'y pense, je vais peut-\u00c3\u00aatre termin\u00c3\u00a9 mes cours \u00c3\u00a0 option \u00c3\u00a0 Laval, je sais pas si t'as des \u00c3\u00a9co de bons cours qui s'y donnent?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574644230811,
+      "content": "Non recherche! Mais bon, cheminement particulier avec stage, m\u00c3\u00a9moire et cours \u00f0\u009f\u0098\u0085"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574644148080,
+      "content": "c'est cool ! Tu fais ta maitrise en mode coop?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574644054363,
+      "content": "Oui oui, mais j'y reviens d\u00c3\u00a8s janvier!"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574643202306,
+      "content": "Alloooo ! Oui deux jours par semaine le temps que je fasse ma ma\u00c3\u00aetrise ! Toi? t'\u00c3\u00a9tais \u00c3\u00a0 sherbrooke il me semble?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574643127584,
+      "content": "Travaille tu encore aux finances?"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1574632274553,
+      "content": "\u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Ame\u00cc\u0081lie",
+      "timestamp_ms": 1574623667523,
+      "content": "\u00f0\u009f\u0091\u008c",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2184395344283183805"
+      }
+    }
+  ],
+  "title": "Ame\u00cc\u0081lie",
+  "is_still_participant": true,
+  "thread_path": "inbox/amelie_556239235777718",
+  "magic_words": [
+    
+  ]
+}

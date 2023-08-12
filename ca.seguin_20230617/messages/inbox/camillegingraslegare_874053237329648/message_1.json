@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Camille Gingras-Le\u00cc\u0081gare\u00cc\u0081 \u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u008d\u00f0\u009f\u008f\u008b\u00f0\u009f\u008f\u00bc"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Camille Gingras-Le\u00cc\u0081gare\u00cc\u0081 \u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u008d\u00f0\u009f\u008f\u008b\u00f0\u009f\u008f\u00bc",
+      "timestamp_ms": 1650630580552,
+      "content": "Liked a message"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1650628753429,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Camille Gingras-Le\u00cc\u0081gare\u00cc\u0081 \u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u008d\u00f0\u009f\u008f\u008b\u00f0\u009f\u008f\u00bc"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/camgingras/2821280022325764837"
+      }
+    }
+  ],
+  "title": "Camille Gingras-Le\u00cc\u0081gare\u00cc\u0081 \u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u008d\u00f0\u009f\u008f\u008b\u00f0\u009f\u008f\u00bc",
+  "is_still_participant": true,
+  "thread_path": "inbox/camillegingraslegare_874053237329648",
+  "magic_words": [
+    
+  ]
+}

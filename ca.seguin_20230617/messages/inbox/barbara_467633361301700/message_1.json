@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Barbara \u00e2\u0098\u00bb"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1609030407140,
+      "content": "\u00f0\u009f\u008f\u0085\u00f0\u009f\u008f\u0085\u00f0\u009f\u0098\u0082"
+    },
+    {
+      "sender_name": "Barbara \u00e2\u0098\u00bb",
+      "timestamp_ms": 1609013111681,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2472877265412093939"
+      }
+    }
+  ],
+  "title": "Barbara \u00e2\u0098\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/barbara_467633361301700",
+  "magic_words": [
+    
+  ]
+}

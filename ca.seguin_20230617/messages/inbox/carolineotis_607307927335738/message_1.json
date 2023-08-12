@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Caroline Otis"
+    },
+    {
+      "name": "Charles-Antoine S\u00c3\u00a9guin"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1643588632753,
+      "content": "\u00f0\u009f\u0098\u008a"
+    },
+    {
+      "sender_name": "Caroline Otis",
+      "timestamp_ms": 1643586449877,
+      "content": "Hahah nop mais j\u00e2\u0080\u0099ai h\u00c3\u00a2te d\u00e2\u0080\u0099en faire moi aussi \u00f0\u009f\u00a4\u0097"
+    },
+    {
+      "sender_name": "Charles-Antoine S\u00c3\u00a9guin",
+      "timestamp_ms": 1643585377385,
+      "content": "Pas aussi exotique que vous \u00f0\u009f\u0099\u0083"
+    },
+    {
+      "sender_name": "Caroline Otis",
+      "timestamp_ms": 1643583310891,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "share": {
+        "link": "https://instagram.com/stories/ca.seguin/2762898203591668832"
+      }
+    },
+    {
+      "sender_name": "Caroline Otis",
+      "timestamp_ms": 1560046896431
+    }
+  ],
+  "title": "Caroline Otis",
+  "is_still_participant": true,
+  "thread_path": "inbox/carolineotis_607307927335738",
+  "magic_words": [
+    
+  ]
+}

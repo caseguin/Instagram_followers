@@ -1,0 +1,60 @@
+{
+  "profile_linked_meta_accounts": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Account Type": {
+          "href": "",
+          "value": "Facebook",
+          "timestamp": 0
+        },
+        "User Name": {
+          "href": "",
+          "value": "Charles-Antoine S\u00c3\u00a9guin",
+          "timestamp": 0
+        },
+        "Email": {
+          "href": "",
+          "value": "c.seguin48@live.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Account Type": {
+          "href": "",
+          "value": "Instagram",
+          "timestamp": 0
+        },
+        "User Name": {
+          "href": "",
+          "value": "ca.seguin",
+          "timestamp": 0
+        },
+        "Email": {
+          "href": "",
+          "value": "c.seguin48@gmail.com",
+          "timestamp": 0
+        },
+        "Phone Number": {
+          "href": "",
+          "value": "+15794902420",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

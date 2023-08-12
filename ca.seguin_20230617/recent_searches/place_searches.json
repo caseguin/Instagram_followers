@@ -1,0 +1,22 @@
+{
+  "searches_place": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Search": {
+          "href": "",
+          "value": "Princess Lagoon, Railay",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1686067265
+        }
+      }
+    }
+  ]
+}
