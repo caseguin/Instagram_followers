@@ -1,3 +1,5 @@
+# From : https://instaloader.github.io/
+
 from argparse import ArgumentParser
 from glob import glob
 from os.path import expanduser
@@ -51,3 +53,4 @@ if __name__ == "__main__":
         import_session(args.cookiefile or get_cookiefile(), args.sessionfile)
     except (ConnectionException, OperationalError) as e:
         raise SystemExit("Cookie import failed: {}".format(e))
+    
