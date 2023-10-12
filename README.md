@@ -2,7 +2,7 @@
 # Instagram_followers
 ***
 
-<u>Objectif</u> : Determine which Instagram accounts don't follow you back using Instaloader.
+__Objectif__ : Determine which Instagram accounts don't follow you back using Instaloader.
 
 ***
 
